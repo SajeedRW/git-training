@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright ©2024 LexisNexis Univentio, The Netherlands. -->
+<lexisnexis-patent-document schema-version="1.14.7" date-produced="20240920" time-produced="080553" file="AT1B.xml" produced-by="LexisNexis-Univentio" lang="eng" date-changed="20120214" time-changed="072732" docdb-status="A" status="Granted" status-date="18990710">
+  <bibliographic-data lang="eng">
+    <publication-reference publ-type="Grant" publ-group="Patent" publ-desc="Patent">
+      <document-id>
+        <country>AT</country>
+        <doc-number>1</doc-number>
+        <kind>B</kind>
+        <date>18990710</date>
+      </document-id>
+      <document-id data-format="docdb">
+        <doc-number>1</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT1B</doc-number>
+      </document-id>
+    </publication-reference>
+    <application-reference>
+      <document-id>
+        <country>AT</country>
+        <doc-number>1D</doc-number>
+        <kind>A</kind>
+        <date>18940924</date>
+      </document-id>
+      <document-id data-format="docdb" id="546141">
+        <doc-number>1D</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>ATD1</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>eng</language-of-filing>
+    <language-of-publication>ger</language-of-publication>
+    <priority-claims date-changed="20120214">
+      <priority-claim sequence="1" kind="national">
+        <country>AT</country>
+        <doc-number>1T</doc-number>
+        <date>18940924</date>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="docdb">
+        <country>AT</country>
+        <doc-number>1T</doc-number>
+        <date>18940924</date>
+        <priority-active-indicator>true</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="epodoc">
+        <doc-number>ATT1</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability date-changed="20120214">
+      <printed-with-grant>
+        <date>18990710</date>
+      </printed-with-grant>
+    </dates-of-public-availability>
+    <invention-title id="title_ger" date-changed="20200325" lang="ger" format="original">Bogenlicht-Regulatoren</invention-title>
+    <invention-title id="title_eng" date-changed="20200325" lang="eng" format="machine translation">Sheet light modulators</invention-title>
+    <parties date-changed="20120214">
+      <applicants>
+        <applicant sequence="1" app-type="applicant">
+          <addressbook lang="eng">
+            <orgname>ROBERT BARTELMUS &amp; CO</orgname>
+            <orgname-standardized type="corporate">ROBERT BARTELMUS</orgname-standardized>
+          </addressbook>
+        </applicant>
+        <applicant sequence="1" app-type="applicant" data-format="docdb">
+          <addressbook lang="eng">
+            <orgname>ROBERT BARTELMUS &amp; CO</orgname>
+          </addressbook>
+        </applicant>
+      </applicants>
+    </parties>
+    <current-assignees>
+      <current-assignee sequence="1">
+        <addressbook lang="eng">
+          <orgname>ROBERT BARTELMUS &amp; CO</orgname>
+          <orgname-standardized>ROBERT BARTELMUS</orgname-standardized>
+        </addressbook>
+      </current-assignee>
+    </current-assignees>
+    <patent-family date-changed="20180928">
+      <domestic-family family-id="23327743" earliest-date="18940924">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>B</kind>
+            <date>18990710</date>
+          </document-id>
+          <application-date>
+            <date>18940924</date>
+          </application-date>
+        </family-member>
+      </domestic-family>
+      <main-family family-id="62640584" earliest-date="18940924">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>B</kind>
+            <date>18990710</date>
+          </document-id>
+          <application-date>
+            <date>18940924</date>
+          </application-date>
+        </family-member>
+      </main-family>
+      <complete-family family-id="62605069" earliest-date="18940924">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>B</kind>
+            <date>18990710</date>
+          </document-id>
+          <application-date>
+            <date>18940924</date>
+          </application-date>
+        </family-member>
+      </complete-family>
+      <extended-family family-id="248002831" earliest-date="18940924">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>B</kind>
+            <date>18990710</date>
+          </document-id>
+          <application-date>
+            <date>18940924</date>
+          </application-date>
+        </family-member>
+      </extended-family>
+      <simple-family family-id="34714792">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>B</kind>
+            <date>18990710</date>
+          </document-id>
+          <application-date>
+            <date>18940924</date>
+          </application-date>
+        </family-member>
+      </simple-family>
+    </patent-family>
+  </bibliographic-data>
+  <prime-notified-events date-changed="20120217">
+    <prime-notified-section name="Status">
+      <prime-notified-event name="Filed" sequence="1">
+        <event-date>
+          <date>18940924</date>
+        </event-date>
+        <event-details>
+          <detail>FILED</detail>
+          <detail-standardized>FILED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Granted" sequence="2">
+        <event-date>
+          <date>18990710</date>
+        </event-date>
+        <event-details>
+          <detail>GRANTED</detail>
+          <detail-standardized>GRANTED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+    <prime-notified-section name="Ownership">
+      <prime-notified-event name="Owner" sequence="1">
+        <event-date>
+          <date-from>18940924</date-from>
+        </event-date>
+        <event-details lang="eng">
+          <detail>ROBERT BARTELMUS &amp; CO</detail>
+          <detail-standardized>ROBERT BARTELMUS</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+  </prime-notified-events>
+</lexisnexis-patent-document>

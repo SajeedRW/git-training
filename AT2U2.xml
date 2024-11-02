@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright ©2024 LexisNexis Univentio, The Netherlands. -->
+<lexisnexis-patent-document schema-version="1.14.7" date-produced="20240920" time-produced="080553" file="AT2U2.xml" produced-by="LexisNexis-Univentio" lang="eng" date-changed="20100413" time-changed="190153" status="Ceased" status-date="20040615">
+  <bibliographic-data lang="eng">
+    <publication-reference publ-type="Grant" publ-group="Utility Model" publ-desc="Utility model without search report">
+      <document-id>
+        <country>AT</country>
+        <doc-number>2</doc-number>
+        <kind>U2</kind>
+        <date>19940725</date>
+      </document-id>
+      <document-id data-format="docdb">
+        <doc-number>2</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT2U</doc-number>
+      </document-id>
+    </publication-reference>
+    <application-reference>
+      <document-id>
+        <country>AT</country>
+        <doc-number>2594</doc-number>
+        <kind>U</kind>
+        <date>19940419</date>
+      </document-id>
+      <document-id data-format="docdb" id="547167">
+        <doc-number>2594</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT19940000025U</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>eng</language-of-filing>
+    <language-of-publication>eng</language-of-publication>
+    <priority-claims>
+      <priority-claim sequence="1" generated="true" kind="national">
+        <country>AT</country>
+        <doc-number>2594</doc-number>
+        <date>19940419</date>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="docdb">
+        <country>AT</country>
+        <doc-number>2594</doc-number>
+        <date>19940419</date>
+        <priority-active-indicator>true</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="original">
+        <doc-number>20002594</doc-number>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="epodoc">
+        <doc-number>AT19940000025U</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability date-changed="20090504">
+      <unexamined-printed-without-grant>
+        <date>19940725</date>
+      </unexamined-printed-without-grant>
+    </dates-of-public-availability>
+    <classification-ipc date-changed="20090504">
+      <main-classification>
+        <text> 5A 63J   1/00   A</text>
+        <edition>5</edition>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>1</main-group>
+        <subgroup>00</subgroup>
+        <qualifying-character>A</qualifying-character>
+      </main-classification>
+      <further-classification sequence="1">
+        <text> 5A 63J   5/00   B</text>
+        <edition>5</edition>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>5</main-group>
+        <subgroup>00</subgroup>
+        <qualifying-character>B</qualifying-character>
+      </further-classification>
+      <further-classification sequence="2">
+        <text> 5A 63J  23/00   B</text>
+        <edition>5</edition>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>23</main-group>
+        <subgroup>00</subgroup>
+        <qualifying-character>B</qualifying-character>
+      </further-classification>
+      <further-classification sequence="3">
+        <text> 5E 04H  14/00   B</text>
+        <edition>5</edition>
+        <section>E</section>
+        <class>04</class>
+        <subclass>H</subclass>
+        <main-group>14</main-group>
+        <subgroup>00</subgroup>
+        <qualifying-character>B</qualifying-character>
+      </further-classification>
+    </classification-ipc>
+    <classifications-ipcr date-changed="20090504">
+      <classification-ipcr sequence="1">
+        <text>A63J   1/00        20060101C I20051110RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>C</classification-level>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>1</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051110</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>A63J   1/00        20060101A I20051110RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>1</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051110</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>A63J   5/00        20060101C I20051110RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>C</classification-level>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>5</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051110</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="4">
+        <text>A63J   5/00        20060101A I20051110RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>5</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051110</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="5">
+        <text>A63J  99/00        20090101C I20081227RMEP        </text>
+        <ipc-version-indicator>
+          <date>20090101</date>
+        </ipc-version-indicator>
+        <classification-level>C</classification-level>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>99</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20081227</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="6">
+        <text>A63J  99/00        20090101A I20081227RMEP        </text>
+        <ipc-version-indicator>
+          <date>20090101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>63</class>
+        <subclass>J</subclass>
+        <main-group>99</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20081227</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="7">
+        <text>E04H   1/00        20060101C I20051110RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>C</classification-level>
+        <section>E</section>
+        <class>04</class>
+        <subclass>H</subclass>
+        <main-group>1</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051110</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="8">
+        <text>E04H   1/00        20060101A I20051110RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>E</section>
+        <class>04</class>
+        <subclass>H</subclass>
+        <main-group>1</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051110</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="9">
+        <text>E04H  14/00        20060101C I20051110RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>C</classification-level>
+        <section>E</section>
+        <class>04</class>
+        <subclass>H</subclass>
+        <main-group>14</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051110</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="10">
+        <text>E04H  14/00        20060101A I20051110RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>E</section>
+        <class>04</class>
+        <subclass>H</subclass>
+        <main-group>14</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051110</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <number-of-claims calculated="yes">11</number-of-claims>
+    <invention-title id="title_ger" date-changed="20200222" lang="ger" format="original">ORTSVERAENDERBARE VERANSTALTUNGSEINRICHTUNG</invention-title>
+    <invention-title id="title_eng" date-changed="20200222" lang="eng" format="machine translation">LOCALCHANGEABLE MEETING MECHANISM</invention-title>
+    <parties date-changed="20090504">
+      <applicants>
+        <applicant sequence="1" app-type="applicant">
+          <addressbook lang="eng">
+            <orgname>KRAULIZ ALF DR.</orgname>
+            <orgname-standardized>KRAULIZ ALF DR</orgname-standardized>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="2" app-type="applicant">
+          <addressbook lang="eng">
+            <orgname>NEVERSAL EDUARD</orgname>
+            <orgname-standardized>NEVERSAL EDUARD</orgname-standardized>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="3" app-type="applicant">
+          <addressbook lang="eng">
+            <orgname>WITTMANN ROBERT ING.</orgname>
+            <orgname-standardized>WITTMANN ROBERT ING</orgname-standardized>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="1" app-type="applicant" data-format="docdb">
+          <addressbook lang="eng">
+            <orgname>KRAULIZ ALF DR</orgname>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="1" app-type="applicant" data-format="docdba">
+          <addressbook lang="eng">
+            <orgname>KRAULIZ ALF DR.</orgname>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="2" app-type="applicant" data-format="docdba">
+          <addressbook lang="eng">
+            <orgname>NEVERSAL EDUARD</orgname>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="2" app-type="applicant" data-format="docdb">
+          <addressbook lang="eng">
+            <orgname>NEVERSAL EDUARD</orgname>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="3" app-type="applicant" data-format="docdb">
+          <addressbook lang="eng">
+            <orgname>WITTMANN ROBERT ING</orgname>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="3" app-type="applicant" data-format="docdba">
+          <addressbook lang="eng">
+            <orgname>WITTMANN ROBERT ING.</orgname>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+    </parties>
+    <current-assignees>
+      <current-assignee sequence="1">
+        <addressbook lang="eng">
+          <orgname>KRAULIZ ALF DR.</orgname>
+          <orgname-standardized>KRAULIZ ALF DR</orgname-standardized>
+          <address>
+            <country>AT</country>
+          </address>
+        </addressbook>
+      </current-assignee>
+      <current-assignee sequence="2">
+        <addressbook lang="eng">
+          <orgname>NEVERSAL EDUARD</orgname>
+          <orgname-standardized>NEVERSAL EDUARD</orgname-standardized>
+          <address>
+            <country>AT</country>
+          </address>
+        </addressbook>
+      </current-assignee>
+      <current-assignee sequence="3">
+        <addressbook lang="eng">
+          <orgname>WITTMANN ROBERT ING.</orgname>
+          <orgname-standardized>WITTMANN ROBERT ING</orgname-standardized>
+          <address>
+            <country>AT</country>
+          </address>
+        </addressbook>
+      </current-assignee>
+    </current-assignees>
+    <patent-family date-changed="20180928">
+      <domestic-family family-id="28221349" earliest-date="19940419">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+      </domestic-family>
+      <main-family family-id="62640606" earliest-date="19940419">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+      </main-family>
+      <complete-family family-id="62605085" earliest-date="19940419">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+      </complete-family>
+      <extended-family family-id="248002900" earliest-date="19940419">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+      </extended-family>
+      <simple-family family-id="3479539">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>2</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940419</date>
+          </application-date>
+        </family-member>
+      </simple-family>
+    </patent-family>
+  </bibliographic-data>
+  <legal-data date-changed="20170303">
+    <legal-event sequence="1">
+      <publication-date>
+        <date>20040615</date>
+      </publication-date>
+      <event-code-1>MN9K</event-code-1>
+      <effect>-</effect>
+      <legal-description>CANCELLED DUE TO LAPSE OF TIME</legal-description>
+      <event-class code="H">IP RIGHT CESSATION</event-class>
+      <status-identifier>C</status-identifier>
+      <docdb-publication-number> AT           2U2</docdb-publication-number>
+      <docdb-application-id>547167</docdb-application-id>
+    </legal-event>
+  </legal-data>
+  <prime-notified-events date-changed="20170303">
+    <prime-notified-section name="Status">
+      <prime-notified-event name="Filed" sequence="1">
+        <event-date>
+          <date>19940419</date>
+        </event-date>
+        <event-details>
+          <detail>FILED</detail>
+          <detail-standardized>FILED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Granted" sequence="2">
+        <event-date>
+          <date>19940725</date>
+        </event-date>
+        <event-details>
+          <detail>GRANTED</detail>
+          <detail-standardized>GRANTED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Ceased" sequence="3">
+        <event-date>
+          <date>20040615</date>
+        </event-date>
+        <event-details>
+          <detail>CANCELLED DUE TO LAPSE OF TIME</detail>
+          <detail-standardized>CANCELLED DUE TO LAPSE OF TIME</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+    <prime-notified-section name="Ownership">
+      <prime-notified-event name="Owner" sequence="1">
+        <event-date>
+          <date-from>19940419</date-from>
+        </event-date>
+        <event-details lang="eng">
+          <detail>KRAULIZ ALF DR.</detail>
+          <detail-standardized>KRAULIZ ALF DR</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Owner" sequence="2">
+        <event-date>
+          <date-from>19940419</date-from>
+        </event-date>
+        <event-details lang="eng">
+          <detail>NEVERSAL EDUARD</detail>
+          <detail-standardized>NEVERSAL EDUARD</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Owner" sequence="3">
+        <event-date>
+          <date-from>19940419</date-from>
+        </event-date>
+        <event-details lang="eng">
+          <detail>WITTMANN ROBERT ING.</detail>
+          <detail-standardized>WITTMANN ROBERT ING</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+  </prime-notified-events>
+  <description id="descr_ger" lang="ger" format="ocr" date-changed="20091117">
+    <p>Die Erfindung betrifft eine ortsveränderliche Veranstaltungseinrichtung, vorzugsweise rollendes Veranstaltungsmittel oder Veranstaltungsboot, im wesentlichen bestehend aus einem Grundkörper oder Basisteil mit zumindest einer Plattform oder Aktionsfläche, einem Dachaufbau, Abstützungsmittel für den Dachaufbau, gegebenenfalls Seitenwänden, Rückwand, Vorderwand, Vorhang, Verkleidungen und dergleichen.</p>
+    <p>Veranstaltungseinrichtungen bzw. Versammlungsstätten für Unterhaltungen und/oder Darbietungen und/oder Ausstellungen und/oder Bewirtungen und dergleichen können als stationäre Gebäude oder als mobile Bauten ausgeführt sein.</p>
+    <p>Mobile oder fliegende Bauten, wie Welttheater oder mobile Veranstaltungszentren, wie zum Beispiel auch aus dem DE-G-£208713.2 bekannt, haben den Vorteil der Ortsveränderbarkeit, müssen jedoch für eine Überstellung weitgehend in Einzelteile oder Einzelsegmente zerlegt werden. Nach dem Transport der Teile bzw. Segmente sind diese wieder zusammenzufügen, so daß ein Ortswechsel eines fliegenden oder mobilen Bauwerkes den Nachteil von hohen Zeitund Arbeitsaufwendungen mit sich bringt.</p>
+    <p>Es sind mobile Veranstaitungseinrichtungen bekannt, welche einen fahroder schwimmfähigen Grundkörper und mit diesem im wesentlichen meist unlösbar verbundene Aufbauten besitz.en. Derartige mobile Einrichtungen haben den wesentlichen Vorteil, daß bei einer Ortsveränderung kein Zerlegen und kein Wiederaufbau bzw. Zusammenbau der Teile erforderlich sind. Nachteilig hingegen ist dabei eine Begrenzung der Größe und insbesondere der Höhe der Aufbauten, weil die Einrichtung beim Transport zumeist unter Brücken durchgebracht werden muß. Ein weiterer Nachteil ist dadurch gegeben, daß, um dem Fahrer oder Steuermann freie Sicht zu geben, oft aufwendige oder zwingende Vorkehrungen zu treffen bzw. eingens dafür Vorrichtungen zu erstellen sind.</p>
+    <p>Hier will di9 Erfindung Abhilfe schaffen und setzt sich zum Ziel, eine ortveränderbare Veranstaltungseinrichtung zu schaffen, welche leicht unter Brücken durchgebracht werden kann, dem Fahrer freie Sicht gibt und im Betrieb höhere Aufbauten zuläßt und erweiterbar ist. Dieses Ziel wird bei einer ortveränderbaren Veranstaltungseinrichtung der eingangs genannten Art dadurch erreicht, daß der AT000002 U2 Dachaufbau gegenüber dem Grundkörper höhenverstellbar ist, eine unterste Grundoder Verfahr-Position sowie eine oberste oder Hochposition aufweist und in diesem Bereich in jeder Höhe bzw. mit jedem Abstand von der Plattform des Grundkörpers feststellbar ist. Die durch die Erfindung erreichten Vorteile sind im wesentlichen darin zu sehen, daß bei einer Ortsveränderung der Einrichtung eine Durchfahrt auch bei niedrigen Unterführungen bzw. Brücken leicht möglich ist und danach auf einfache Weise und innerhalb kurzer Zeit eine Einsetzbarkeit oder Betriebsbereitschaft der Veranstaltungseinrichtung wiederhergestellt werden kann.</p>
+    <p>Dadurch wird bei hoher Wirtschaftlichkeit eine große Flexibilität erreicht.</p>
+    <p>Ein weiterer Vorteil wird erreicht, wenn der Dachaufbau in eine im Bereich der Grund-oder Verfahr-Position gelegene Höhenlage außerhalb des Sichtbereiches eines Steuermannes verstellbar ist bzw. eine Rundumsicht eines Steuerorganes, z.B. Bootsmann, uneingeschränkt oder zumindest nicht wesentliche eingeschränkt ist. Insbesondere für selbstfahrende und zu steuernde Veranstaltungsboote wird dadurch hohe Sicherheit und Fahr-sowie Anlegegenauigkeit erreicht.</p>
+    <p>Im Hinblick auf einen kurzfristigen Erhalt einer vollen Betriebsbereitschaft der Einrichtung, aber auch für eine hochwertige, funktionsund beschädigungssichere Anordnung ist es günstig, wenn der Dachaufbau oder darauf verfahrbare Trageeinrichtungen Beleuchtungseinrichtungen beinhaltet( en ), welche gegebenenfalls in ihrer Strahlrichtung einstellbar, vorzugsweise durch Schwenkmittel gesteuert einstellbar, sind. Dabei hat es sich als besonders vorteilhaft herausgestellt, wenn der Dachaufbau begehbar ist und eine sogenannte Obermaschinerie einer Bühnenanlage, zum Beispiel Lattenzüge .und/oder Punktzüge und/oder Prospektzüge und/oder Projektionswände und dergleichen mit elektrischen, hydraulischen, .elektromechanischen und dergleichen Antriebe beinhaltet.</p>
+    <p>Sowohl für eine Sicherung der Stabilität als auch für ein einfaches Verfahren und Verbringen sowie eine genaue Einstellung ist es bevorzugt, wenn der Dachaufbau mit höhenverstellbaren Säulen, zum Beispiel zwei, vorzugsweise vier, gegebenenfalls hydraulische, spindelgetriebene, seiigezogene oder dergleichen Teleskopsäulen, welche auf dern Grundkörper abgestürzt sind, verbunden ist.</p>
+    <p>AT000002 U2 Wenn wie sich weiters als günstig, insbesondere für eine kompakte kleinbauende Befestigung, gezeigt hat, der Dachaufbau seitlich von Doppeischerenhebevorrichtungen, welche gegebenenfalls einen Spindelantrieb aufweisen, getragen ist, kann eine stabile und einfach abzusichemde Abstützung erreicht werden.</p>
+    <p>Insbesondere für eine Bühne, deren Zuschauerfläche nach hinten ansteigend ausgeführt ist, können die Sichtverhältnisse und die Publikumswirksamkeit weiters gefördert werden, wenn der Dachaufbau zur Plattform mittels Schwenklager am Abstützungsmittel schräg oder schiefwinkelig feststellbar ist.</p>
+    <p>Wenn, wie weiters in vorteilhafter Form der höhenverstellbare Dachaufbau und/oder der Grundkörper bzw. dessen Plattform ausziehbare oder schwenkbare Teile zur Seite und/oder nach fome und/oder nach hinten, z.B. Dachverlängerungen und dergleichen und/oder ausklappbare Teile, z.B. Seitenwände oder Gehfiächen aufweist bzw. aufweisen, können die Aktionsflächen und/oder die schützenden Dachflächen vergrößert und/oder eine Erreichbarkeit von nebengeordneten Einrichtungen oder bei Booten vom Land vereinfacht werden.</p>
+    <p>Es ist wichtig, daß zur Versorgung mit elektrischer Energie im Grundkörper ein Stromerzeugungsaggregat oder ein Anschlußmittel an eine außenliegende, z.B.</p>
+    <p>iandgebundene Stromversorgung, z.B. zur Anspeisung der Beleuchtungseinrichtung, angeordnet ist.</p>
+    <p>Insbesondere für Bühnen, Versammlungsund Bewirtungsstätten ist es von Vorteil, wenn der Grundkörper zugeordnete Nebenräume wie z.B. Umkleideräume und dergleichen aufweist.</p>
+    <p>Sowohl für eine Ortsbindung als auch für einen Zusammenhalt von einer aus mehreren schwimmenden Teilen bestehende Einrichtung ist es vorteilhaft, wenn der als Schiffsrumpf ausgebildete Grundkörper Vorrichtungen zur Befestigung und/oder Verankerung desselben an festem Land, an Grund, an Stegen oder Schiffen besitzt und gegebenenfalls Einrichtungen für eine horizontale Stabilisierung der AT000002 U2 Plattform aufweist. Auf einfache Weise können dadurch großflächige Veranstaltungsbzw. Austellungseinrichtungen, gegebenenfalls mit einer Mehrzahl von unterschiedlichen Aktionsbereichen, gebildet werden. Für eine Aufstellung oder Separierung der Teile zur Ortsveränderung ist lediglich ein Lösen der Befestigungsmittel erforderlich.</p>
+    <p>Zur Bildung von erweiterten Aktionsflächen ist vorgesehen, daß der Grundkörper mit zumindest einem weiteren Grundkörper und/oder mit dem Land bzw. Grund verbunden ist und ausziehbare und/oder vorzugsweise zu einer Ebene ausklappbare, insbesondere überbrückende Teile, zum Beispiel Plattformteile, Gehflächen, Stege, Brücken und dergleichen zur Bildung eines großflächigen Veranstaltungszentrums aufweist.</p>
+    <p>Zu einer vorteilhaften Variante kann zum Beispiel für eine Nebenbühne oder eine Flächengliederung oder dergleichen vorgesehen sein, daß zumindest ein Teil der Plattform gegenüber dem Grundkörper mit zugeordnetem Abstützmittel höhenverstellbar ist.</p>
+    <p>Eine Singspieleinrichtung nach Art eines Musiktheaters läßt sich vorteilhaft erreichen, wenn zumindest ein Teil eines und/oder eines mit diesem verbundenen weiteren Grundkörpers unter Bildung eines nach oben offenen Tiefraumes, zum Beispiel für einen Orchestergraben, abdeckungsfrei bzw. frei von einer Plattformfläche ist.</p>
+    <p>Wenn gemäß einer weiteren bevorzugten Form die Dachaufbauten und/oder die Plattformen und/oder die Seitenwände bei nebeneinander und/odor hintereinander angeordneten einzelnen Veranstaltungseinrichtungen miteinander verbunden sind, wird eine Unabhängigkeit der Veranstaltung vom Wetter und/oder eine gefahrlose Begehung großer Flächen möglich.</p>
+    <p>im folgenden wird die Erfindung anhand von lediglich jeweils einen Ausführungsweg darstellenden Zeichnungen näher erläutert.</p>
+    <p>Es zeigen schematisch Fig. 1 ein Veranstaltungsboot in Ansicht Fig. 2 ausklappbare Dachverlängerungen und Plattformerweiterungen an einem AT000002 U2 derartigen Boot Fig. 3 Teile einer schwimmenden Veranstaltungseinrichtung in einer Grundsowie Hochposition des Dachaufbaues Fig. 4 eine für Musiktheater gestaltete BühnenOrchesterkombination aus zwei Booten im Schnitt Fig. 5 einen abgedeckten großflächigen ebenen Ausstellungsoder Veranstaltungsraum im Schnitt Fig. 6 Teile einer fahrbaren Veranstaltungseinrichtung in einer Grundsowie einer Hochposition des Dachaufbaues Fig. 1 zeigt schematisch in vereinfachter Darstellung eine Bühne auf einem Kahn.</p>
+    <p>Dabei ist auf einem Basisteil oder Schiffsrumpf 2 eine Plattform bzw. Aktionsfläche 32 in im wesentlichen waagrechter Lage angeordnet. Ein Bühnenaufbau besteht hier lediglich aus einem Dachaufbau 3', welcher von Säulen 4 abgestützt ist. Durch vier im Rechteck angeordnete Säulen 4 wird einerseits eine hohe Stabilität eines begehbaren Daches mit den integrierten Anlagen erreicht, andererseits ist es möglich, eine Verkleidung zur Bildung eines dekorativen Bühnenportals im Bereich einer Plattformkante oder einer vorderen Begrenzung einer Aktionsfläche 23 anzuordnen. Ein Vorhang und eine Obermaschinerie einer Bühnenan{age mit ZOgen und Beleuchtungsmitteln sind im Dachaufbau 3' integriert.</p>
+    <p>Eine gegebenenfalls hydraulische Teleskopausführung der Säulen 4 ermöglicht es, für eine Ortsveränderung ein Absenken des Dachaufbaues von einer Hochposition 3' in eine Grundoder Verfahrposition 3 ( strichliert dargestellt) vorzunehmen.</p>
+    <p>Eine Vergrößerungsmöglichkeit eines Dachaufbaues und einer Plattform 23 zeigt schematisch Fig. 2. Von einer Verfahrposition eines Veranstaltungsbootes 1 kann hiezu ein Dachaufbau in eine Hochposition 3' angehoben und durch ein Ausbzw.</p>
+    <p>Aufklappen von dafür vorgesehenen Flächen 31' und 5" eine Vergrößerung des Daches und der Plattform 23 erreicht werden.</p>
+    <p>Fig. 3 zeigt einen Schleppkahn, welcher auch als Vortragsoder Ausstellungsstätte vorteilhaft einsetz.bar ist. Ein Veranstaltungsboot 1 besteht daher wieder aus einem Basisteil oder Schiffsrumpf 2 und einem Steuerhaus 21 mit einer Sichtlage 22 eines -f.,- AT000002 U2 Steuermannes. Der rechte Bildteil stellt schematisch in prinzipieller Form eine Grundoder Verfahrposition und der linke Bildteil, nach der senkrechten Strich-Punkt-Linie, eine Hochposition von Aufbauten einer Veranstaltungseinrichtung im betriebsbereiten Zustand dar.</p>
+    <p>In einer Verfahrposition befindet sich ein höchster Punkt eines Dachaufbaues 3 unterhalb einer Rundsichtebene eines Steuermannes 22, wobei Wandelemente 32 und Plattforrnelemente 5 zusammengeklappt nahe an einem bzw. nahe an zwei Abstützmittel(n) 4 angeordnet sein können. Soll nun eine Hochposition 3' mit einer vollen Ausdehnung der Ausund Zubauten vorliegen, so werden Erweiterungssegmente 5 für eine Vergrößerung 5' der Plattform 23 zum Beispiel doppelt ausgeklappt 51,52. Seitenwände 32' können nach einem gleichen Ausfaitbzw. Klapp-Prinzip 321,322 aufgestellt werden, wobei auch eine Rückund eine Vorderwand einer Veranstaitungseinrichtung 1 derart erstellbar sind.</p>
+    <p>In Fig. 4 ist eine Musiktheater-Vorführeinrichtung, bestehend im wesentlichen aus einem einem Schauspiel zugeordneten Teil 1 und einem sogenannten Orchesterteil 1", welche Teile miteinander über Vorrichtungen 26 verbunden sind'und eine Verankerung 27 mit dem Land aufweisen, prinzipiell veranschaulicht. Auf einem schrägen Landbereich ist beispielsweise eine Zuschauerfläche B vorgesehen, wogegen für eine Musiktheater-Vorführung, zum Beispiel Musical oder Show, ein auf dern Wasser A schwimmender, aus zwei Kähnen bzw. aus zwei Schiffsrümpfen 2, 2" gebildeter Darbietungsbereich geschaffen ist. Der Schauspielteil 1 besitzt zum Beispiel eine durch geeignete Vorrichtungen angehobene erhöhte Aktionsfläche 23, welche sich teilweise im Orchesterteil 1" fortsetzt. Unterhalb der .Aktionsplattform 23 befinden sich gegebenenfalls zugeordnete Nebenräume 24, beispielsweise Garderoben, Bereitschaftsräume und dergleichen, welche mittels Stiegen mit einem Darbietungsraum in Verbindung stehen. Der Orchesterteil 1" besitzt eine mittels höhenverstellbaren Stützeinrichtungen absenkbare Plattform zur Bildung eines Tiefraumes 25" für zum Beispiel Musiker und Dirigenten. Ein verstellbarer Dachaufbau 3' kann, wie schematisch gezeigt, in eine Schrägposition 3'" in Querdchtung zum Beispiel durch unterschiedliche Höhenpositionen der Säulen 4 geschwenkt werden, so daß vom Zuschauerraum B eine verbesserte Sicht gegeben ist. Einer derartigen Schwenkung wird auch durch eine entsprechende Gestaltung AT000002 U2 der Oberrnaschinerie im Dachaufbau 3', zum Beispiel drehbare oder schwenkbare Schienen der Züge und dergleichen Rechnung getragen.</p>
+    <p>Fig. 5 zeigt eine grofl flächige Versammlungsstätte oder einen Ausstellungsraum, welche bzw. welcher durch zwei miteinander über Vorrichtungen 26 verbundene Veranstaltungsboote 1, 1" gebildet wird und eine durchgehende Plattform 23, 23" aufweist. Seitenwände und eine Rückwand 32' sind beispielsweise in einer Klappbauweise gestaltet, wogegen eine Verbindung von beiden Dachaufbauten 3', 3" durch ein Ausfahren von Teilen bewerkstelligt ist.</p>
+    <p>In Fig. 6 ist eine fahrbare Veranstaltungseinrichtung 1 auf eine Grundkörper 2, welcher zum Beispiel als Anhänger für ein Straßen-Zugfahrzeug ausgebildet ist, veranschaulicht. Wie in Fig. 3 stellt die rechte Seite die Aufbauten mit dem Dachaufbau 3 in einer Grund-oder Verfahrposition mit eingeklappten Teilen dar, wogegen der linke Bildteil eine Hochposition vom Dachaufbau 3' mit ausgeschobenem Dachteil 31' und eingerichteten Wandteilen 32' in Betriebsbereitschaft zeigt.</p>
+    <p>-gAT000002 U2</p>
+  </description>
+  <description id="descr_eng" lang="eng" format="machine translation" date-changed="20091117">
+    <p>The invention concerns a localvariable meeting mechanism, a preferably rolling meeting means or meeting boat, essentially consisting of a base or a base with at least a platform or an action surface, a roof system, support means for the roof system, if necessary side panels, rear wall, Vorderwand, curtain, linings and such a thing.
+ Meeting mechanisms and/or assembly places for maintenances and/or presentations and/or exhibitions and/or regaling and such a thing can be implemented as stationary buildings or as mobile buildings.
+ Mobile or flying buildings, like world theatres or mobile meeting centers, as for example also from the DE-G-£208713.2 admits, have the advantage of the local changeableness, must however for a commitment into individual parts or segments be divided to a large extent. After the transport of the parts and/or segments these are to be joined again, so that a local change of a flying or mobile building brings the disadvantage of high Zeitund to work expenditures with itself.
+ There is well-known mobile Veranstaitungseinrichtungen, which besitz.en a more fahroder buoyant base and with this essentially usually inseparably connected superstructures. Such mobile mechanisms have the substantial advantage that during a change of location no dividing and no reconstruction and/or assembly of the parts are necessary. Unfavorably however thereby a delimitation of the size and in particular the height is superstructures, because the mechanism must be through-brought in the case of transport mostly under bridges. A further disadvantage is given thereby that, to meet and/or in gene for it devices be provided in order to give the driver or attendant free view often complex or compelling precautions are.
+ Here di9 wants to create invention remedy and sits down to the goal of creating a localchangeable meeting mechanism which can be through-brought to the driver free view easily under bridges, gives and in the enterprise higher superstructures permits and is expandable. This goal reached during a localchangeable meeting mechanism of the kind initially specified by it that at000002 U2 is höhenverstellbar roof system opposite the base, a lowest Grundoder procedure position as well as a highest or a high position exhibits and in this range in each height and/or with each distance from the platform of the base can be recognized. The advantages reached by the invention are to be seen essentially that during a change of location of the mechanism a passage is easily possible also with low underpasses and/or bridges and can afterwards in a simple manner and within short time an applicableness or a ready status of the meeting mechanism be restored.
+ Thus with high economy a large flexibility is reached.
+ A further advantage is reached, if the roof system is adjustable into an altitude lain in the range reason or of the procedure position outside of the range of vision of an attendant and/or an all-round visibility of a control, e.g. Bootsmann, without reservation or at least not substantial is reduced. In particular for self-propelled and meeting boats which can be steered by it high security and Fahr-sowie putting on accuracy are reached.
+ Regarding a short term receipt of a full ready status of the mechanism, in addition, for a high-quality, funktionsund damage-safe arrangement it is favorable, if the roof system or whereupon displaceable stretcher mechanisms contains lighting mechanisms (EN), which are if necessary in their radiation direction adjustable, preferably by swiveling means steered adjustable. It turned out as particularly favourable, if the roof system is accessible and a so-called upper machinery of a stage plant, for example with electrical, contains slat courses of .und/oder point courses and/or folder courses and/or adjusting walls and such a thing hydraulic, .elektromechanischen and such drives.
+ Both for a protection of stability and for simple proceeding and spending as well as an exact attitude it is preferential, if the roof system with höhenverstellbaren columns, for example two, preferably four, if necessary hydraulic, spindle-driven, seiigezogene or such telescope columns, which fell on dern bases, are connected.
+ AT000002 U2 if like further showed up as favorably, in particular for a compact smallbuilding attachment, the roof system laterally of Doppeischerenhebevorrichtungen, which exhibit a Spindelantrieb if necessary, carried is, can a sturdy and simply abzusichemde support be achieved.
+ In particular for a stage, whose spectator surface is implemented to the rear rising, the visibilities and the public effectiveness can be promoted further, if the roof system can be recognized to the platform by means of articulated bearings at the support means diagonal or schiefwinkelig.
+ If, as further in favourable form the höhenverstellbare roof system and/or the base and/or its platform extendable or tiltable parts to the side and/or after fome and/or to the rear, e.g. roof extensions and such and/or swinging out parts, e.g. side panels or Gehfiächen exhibit and/or exhibit, the action surfaces can and/or the protecting roof areas to be increased and/or an accessibility from beside-regulatory mechanisms or with boats by the country be simplified.
+ It is important that to the supply of electricity in the bases a power aggregate or a connection means to an external, e.g.
+ iandgebundene current supply, e.g. to the Anspeisung of the lighting mechanism, is arranged.
+ In particular for stages, Versammlungsund regaling places is of advantage it, if the base e.g. exhibits assigned secondary rooms like changing rooms and such a thing.
+ Both for a local connection and for a co-operation of one from several swimming parts existing mechanism is favourable it, if as hull possesses if necessary trained bases devices for the attachment and/or anchorage the same at firm country, at reason, at bars or ships and for a horizontal stabilization of at000002 U2 platform exhibits mechanisms. In a simple manner thereby wide Veranstaltungsbzw can. Austellungseinrichtungen, if necessary with a majority by different ranges of action, to be formed. For a list or a separation of the parts for change of location only a loosening of the means of mounting is necessary.
+ For the formation of extended action surfaces it is intended that the base is connected with the country and/or reason with at least a further base and/or and for the education of a wide meeting center preferably exhibits extendable and/or, in particular bridging parts, for example platform parts, going surfaces, bars, swinging out to one level, bridges and such a thing.
+ To a favourable variant it can be intended for example for a Nebenbühne or an area organization or such a thing that at least a part of the platform is höhenverstellbar opposite the base with assigned supporting means.
+ A Singspieleinrichtung according to kind of a concert hall lets itself reach favourably, if at least a part is and/or one with this connected further base under education of an upward open Tiefraumes, for example for an orchestra ditch, cover-free and/or free from a platform surface.
+ If in accordance with a further preferential form the roof systems and/or the platforms and/or the side panels with next to each other and/odor to one behind the other are connected arranged individual meeting mechanisms, an independence of the meeting from the weather and/or a safe committing of large surfaces become possible.
+ in the following the invention is more near described only in each case on the basis of designs representing a remark way.
+ Schematically Fig show. 1 a meeting boat in opinion Fig. 2 swinging out roof extensions and platform extensions at a AT000002 U2 such boat Fig. 3 parts of a swimming meeting mechanism in Grundsowie high position of the roof system Fig. 4 one for concert halls arranged stage orchestra combination of two boats on average Fig. 5 a taken off wide even Ausstellungsoder meeting area on average Fig. 6 parts of a mobile meeting mechanism in Grundsowie of a high position of the roof system Fig. 1 shows schematically in simplified representation a stage on a punt.
+ A platform and/or an action surface 32 is arranged in essentially horizontal situation on a base or a hull 2. A structure of stage consists here only of a roof system 3 ', is supported for which by columns 4. By four columns 4 arranged in the rectangle on the one hand a high stability of an accessible roof with the integrated plants is reached, on the other hand one it is possible to arrange a lining for the education of a decorative stage portal in the range of a platform edge or a front delimitation of an action surface 23. A curtain and an upper machinery of a Bühnenan {age with pulled and to illuminants are integrated in the roof system 3 '.
+ A if necessary hydraulic telescope execution of the columns 4 makes possible it to make for a change of location a lowering of the roof system of a high position 3 ' into a Grundoder procedure position 3 (strichliert represented).
+ An enlargement possibility of a roof system and a platform 23 shows schematically Fig. 2. Of a procedure position of a meeting boat 1 hiezu a roof system can into a high position 3 ' raised and by a Ausbzw.
+ Opens unfold from surfaces 31 ' and 5 intended for it " an enlargement of the roof and the platform 23 to be reached.
+ Fig. shows 3 a dragging punt, which as Vortragsoder exhibition place is favourably usable. A meeting boat 1 exists from there a base or a hull 2 and a Steuerhaus 21 with a view situation 22 one - f., - AT000002 U2 of attendant. The right picture part represents schematically in form in principle a Grundoder procedure position and the left picture part, after the senkrechten dot and dash line, a high position of superstructures of a meeting mechanism in the ready for use condition.
+ In a procedure position a highest point of a roof system 3 is below one round view level of an attendant 22, whereby wall elements 32 and Plattforrnelemente 5 folded up close to and/or close to two supporting means (n) 4 to be arranged can. Now if a high position 3 is to be present ' with a full expansion of the Ausund of annexes, then extension segments 5 for an enlargement 5 ' of the platform 23 51,52 are folded up for example doubly. Side panels 32 ' can after a same Ausfaitbzw. Folding principle 321.322 to be set up, whereby also Rückund a Vorderwand of a Veranstaitungseinrichtung 1 are in such a manner providable.
+ In Fig. 4 a concert hall demonstrating mechanism, consisting essentially of a play assigned a part of 1 and a so-called orchestra part of 1 ", is which parts with one another exhibit an anchorage 27 connected by devices 26 sind'und with the country, illustrated in principle. On a diagonal land range for example a spectator surface B is intended, against what for a concert hall demonstration, for example musical or show, on dern water a A is creative more swimming, from two punts and/or from two hulls 2, 2 " formed presentation range. The play part of 1 possesses for example a increased action surface 23 raised by suitable devices, which partly in the orchestra part 1 continues ". Below that. Action platform 23 are if necessary assigned secondary rooms 24, for example clothes, readiness areas and such a thing, which stand by means of staircases with a presentation area in connection. The orchestra part of 1 " possesses a platform lowerable by means of höhenverstellbaren supporting mechanisms for the education of a Tiefraumes 25 " for example musicians and conductors. An adjustable roof system 3 ' can being shown, like schematically, be moved in a diagonal position 3 ' “into Querdchtung for example by different elevator positions of the columns 4, so that by the auditorium an improved view is given to B. Also by an appropriate organization AT000002 U2 of the Oberrnaschinerie in the roof system 3 ', for example swivelling or tiltable rails of the courses and such is considered to a such turning.
+ Fig. one shows 5 grofl laminar assembly place or a showroom, which and/or which by two with one another 26 meeting boats 1, 1 connected by devices " is formed and a continuous platform exhibits 23, 23 ". Side panels and a rear wall 32 ' are for example in a folding building method arranged, against what a connection is managed of both roof systems 3 ', 3 " by driving out parts.
+ In Fig. 6 a mobile meeting mechanism 1 on a base 2, which is trained for example as supporters for a road towing vehicle, is illustrated. As in Fig. the right side superstructures with the roof system 3 in one reason or procedure position with folded parts represents 3, against what the left picture part shows a high position part of roofs shoved out by the roof system 3 ' with 31 ' and furnished wall parts of 32 ' in ready status.
+ - gAT000002 U2</p>
+  </description>
+  <claims id="claims_eng" lang="eng" format="machine translation" date-changed="20200222">
+    <claim num="1">
+      <claim-text>1. Localchangeable meeting mechanism (1), preferably rolling meeting means or meeting boat, essentially consisting of a base or a base (2) with at least a platform or an action surface (23), a roof system (3 '), support means (4) for the roof system, if necessary side panels (32 '), rear wall, V_orderwand, curtain, linings and such a thing, thereby characterized that the roof system (3.3 ') opposite the base (2), a lowest is höhenverstellbar reason or procedure position (3) as well as a highest or a high position (3 ') exhibits and within this range in each height and/or with each distance from the platform (23) of the base (2) can be recognized.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. Meeting mechanism according to requirement 1, by characterized that the roof system into one within the range reason or of the procedure position (3) convenient elevator position outside of the range of vision of an attendant adjustably and/or an all-round visibility (22) of a control, is e.g. Bootsmann, unrestricted or is at least not substantially reduced.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. Meeting mechanism according to requirement I or 2, by characterized that the roof system (3.3 ', 3 ") or whereupon displaceable stretcher mechanisms contains lighting mechanisms (EN), which are steered adjustable in their radiation direction adjustable, preferably by swiveling means if necessary.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. Meeting mechanism after one of the requirements 1 to 3, by characterized that the roof system (3, 3 ') is accessible and a so-called upper machinery of a stage plant, e.g. slat courses undd/or Punktz.üge and/or Prospektz.üge and! or adjusting walls and such a thing with electrical, hydraulic, electromechanical and such drive, contains.
+ Meeting mechanism after one requirements 1 to 4, thereby AT000002 U2 characterized that the roof system (3.3 ', 3 ") with höhenverstelibaren columns (4), for example two, preferably four, if necessary hydraulic, spindle-driven, rope-pulled or such a thing, telescope columns, which are supported on the base (2.2 "), is connected.
+ 6 meeting mechanism after one of the requirements 1 to 4, by characterized that the roof system (3.3 ') is carried laterally by double shears liftings device, which exhibit a jackscrew actuator if necessary.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>7. Meeting mechanism after one of the requirements 1 to 6, by characterized that the roof system (3 ') to the platform (23) by means of articulated bearings at the support means (4) diagonally or schiefwinkelig (3 " ') feststelibar is.</claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>8. Meeting mechanism after one of the requirements 1 to 7, by characterized that the höhenverstellbare roof system (3) and/or the base (2) and/or its platform (of 23) extendable or tiltable parts to the side and/or forward and/or to the rear, e.g. Dachveriängerungen (31 ', 3 ") and such and/or swinging out parts, e.g. side panels (32 ') or going surfaces (5 ') exhibits and/or exhibit.</claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>9. Veranstaitungseinrichtung after one of the requirements 1 to 8, by characterized that to the supply of electricity in the base (2) a power aggregate or a connection means to an external, e.g.
+ iandgebundene current supply, e.g. to the Anspeisung of the lighting mechanism, is arranged.
+ Meeting mechanism after one of the requirements 1 to 9, by characterized that the base (2) assigned secondary rooms (24) like e.g.
+ Changing rooms and such a thing exhibits.</claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>11. Meeting mechanism after one of the requirements 1 to 10, by the fact characterized that the base (2) devices (26) for the attachment and/or anchorage of the same at firm country (27), reason, bars or ships AT000002 U2 and mechanisms for a horizontal stabilization of the platform exhibits if necessary.</claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>12. Meeting mechanism after one of the requirements 1 to 11, by characterized that at least a part of the platform (23, 23 ") is höhenverstellbar opposite the base (2.2 ") with assigned supporting means.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>13. Meeting mechanism after one of the requirements 1 to 12, by the fact characterized that the trained the base as hull (1) with at least a further base (1 ") and/or with the country (B) and/or reason is connected and extendable and/or preferably, in particular bridging parts, for example platform parts, going surfaces (23 "), swinging out to one level, bars, bridges and such a thing for the education of of a wide (23, 23 ") meeting center exhibits.</claim-text>
+    </claim>
+    <claim num="11">
+      <claim-text>14. Meeting center after one of the requirements 1 to 13, by characterized that at least a part and/or one with this connected further base (2 ") under education of an upward open Tiefraumes (25 "), for example for an orchestra ditch, cover-free and/or.
+ of a platform surface (23, 23 ") is free.
+ Meeting center after one the Ansprüche'l to 14, by characterized that the roof systems (3 ', 31 ', 3 ", 3 " “) and/or the platforms (23, 23 ", 5”) and/or the side panels (32 ') with next to each other and/or to one behind the other are connected arranged individual meeting mechanisms (1, 1”).
+ Hiezu 3 designs ù 'l -</claim-text>
+    </claim>
+  </claims>
+  <claims id="claims_ger" lang="ger" format="ocr" date-changed="20200222">
+    <claim num="1" id="clm-00001-de" independent="true">
+      <claim-text>1. Ortsveränderbare Veranstaltungseinrichtung (1), vorzugsweise rollendes Veranstaltungsmittel oder Veranstaltungsboot, im wesentlichen bestehend aus einem Grundkörper oder Basisteil (2) mit zumindest einer Plattform oder Aktionsfläche (23), einem Dachaufbau (3'), Abstützungsmittel (4) für den Dachaufbau, gegebenenfalls Seitenwänden (32'), Rückwand, V_orderwand, Vorhang, Verkleidungen und dergleichen, dadurch gekennzeichnet, daß der Dachaufbau (3,3') gegenüber dem Grundkörper (2) höhenverstellbar ist, eine unterste Grund-oder Verfahr-Position (3) sowie eine oberste oder Hochposition (3') aufweist und in diesem Bereich in jeder Höhe bzw. mit jedem Abstand von der Plattform (23) des Grundkörpers (2) feststellbar ist.</claim-text>
+    </claim>
+    <claim num="2" id="clm-00002-de">
+      <claim-text>2. Veranstaltungseinrichtung nach <claim-ref idref="clm-00001-de" generated="true">Anspruch 1</claim-ref> , dadurch gekennzeichnet, daß der Dachaufbau in eine im Bereich der Grund-oder Verfahr-Position (3) gelegenen Höhenposition außerhalb des Sichtbereiches eines Steuermannes verstellbar ist bzw. eine Rundumsicht (22) eines Steuerorganes, z.B. Bootsmann, uneingeschränkt oder zumindest nicht wesentlich eingeschränkt ist.</claim-text>
+    </claim>
+    <claim num="3" id="clm-00003-de" independent="true">
+      <claim-text>3. Veranstaltungseinrichtung nach Anspruch I oder 2, dadurch gekennzeichnet, daß der Dachaufbau (3,3',3") oder darauf verfahrbare Trageeinrichtungen Beleuchtungseinrichtungen beinhaltet(en), welche gegebenenfalls in ihrer Strahlrichtung einstellbar, vorzugsweise durch Schwenkmittel gesteuert einstellbar sind.</claim-text>
+    </claim>
+    <claim num="4" id="clm-00004-de">
+      <claim-text>4. Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de" generated="true">Ansprüche 1 bis 3</claim-ref> , dadurch gekennzeichnet, daß der Dachaufbau ( 3, 3') begehbar ist und eine sogenannte Obermaschinerie einer Bühnenanlage, z.B. Lattenzüge undd/oder Punktz.üge und/oder Prospektz.üge und!oder Projektionswände und dergleichen mit elektrischem, hydraulischem, elektromechanischem und dergleichen Antrieb, beinhaltet.
+ Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de" generated="true">Ansprüche 1 bis 4</claim-ref> , dadurch AT000002 U2 gekennzeichnet, daß der Dachaufbau (3,3',3") mit höhenverstelibaren Säulen (4), zum Beispiel zwei, vorzugsweise vier, gegebenenfalls hydraulische, spindelgetriebene, seilgezogene oder dergleichen, Teleskopsäulen, welche auf dem Grundkörper (2,2") abgestützt sind, verbunden ist.
+ 6 Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de" generated="true">Ansprüche 1 bis 4</claim-ref> , dadurch gekennzeichnet, daß der Dachaufbau (3,3') seitlich von Doppelscherenhebevorrichtungen, welche gegebenenfalls einen Spindeltrieb aufweisen, getragen ist.</claim-text>
+    </claim>
+    <claim num="5" id="clm-00005-de">
+      <claim-text>7. Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de" generated="true">Ansprüche 1 bis 6</claim-ref> , dadurch gekennzeichnet, daß der Dachaufbau (3') zur Plattform (23) mittels Schwenklager am Abstützungsmittel (4) schräg oder schiefwinkelig (3"') feststelibar ist.</claim-text>
+    </claim>
+    <claim num="6" id="clm-00006-de">
+      <claim-text>8. Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de" generated="true">Ansprüche 1 bis 7</claim-ref> , dadurch gekennzeichnet, daß der höhenverstellbare Dachaufbau (3) und/oder der Grundkörper (2) bzw. dessen Plattform (23) ausziehbare oder schwenkbare Teile zur Seite und/oder nach vorne und/oder nach hinten, z.B. Dachveriängerungen (31', 3") und dergleichen und/oder ausklappbare Teile, z.B. Seitenwände (32') oder Gehflächen (5') aufweist bzw. aufweisen.</claim-text>
+    </claim>
+    <claim num="7" id="clm-00007-de">
+      <claim-text>9. Veranstaitungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de" generated="true">Ansprüche 1 bis 8</claim-ref> , dadurch gekennzeichnet, daß zur Versorgung mit elektrischer Energie im Grundkörper (2) ein Stromerzeugungsaggregat oder ein Anschlußmittel an eine außenliegende, z.B.
+ iandgebundene Stromversorgung, z.B. zur Anspeisung der Beleuchtungseinrichtung, angeordnet ist.
+ Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de" generated="true">Ansprüche 1 bis 9</claim-ref> , dadurch gekennzeichnet, daß der Grundkörper (2) zugeordnete Nebenräume (24) wie z.B.
+ Umkleideräume und dergleichen aufweist.</claim-text>
+    </claim>
+    <claim num="8" id="clm-00008-de">
+      <claim-text>11. Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de clm-00007-de" generated="true">Ansprüche 1 bis 10</claim-ref> , dadurch gekennzeichnet, daß der Grundkörper (2) Vorrichtungen (26) zur Befestigung und/oder Verankerung desselben an festem Land (27), Grund, Stegen oder Schiffen AT000002 U2 und gegebenenfalls Einrichtungen für eine horizontale Stabilisierung der Plattform aufweist.</claim-text>
+    </claim>
+    <claim num="9" id="clm-00009-de">
+      <claim-text>12. Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de clm-00007-de clm-00008-de" generated="true">Ansprüche 1 bis 11</claim-ref> , dadurch gekennzeichnet, daß zumindest ein Teil der Plattform (23, 23") gegenüber dem Grundkörper (2,2") mit zugeordnetem Abstützmittel höhenverstellbar ist.</claim-text>
+    </claim>
+    <claim num="10" id="clm-00010-de">
+      <claim-text>13. Veranstaltungseinrichtung nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de clm-00007-de clm-00008-de clm-00009-de" generated="true">Ansprüche 1 bis 12</claim-ref> , dadurch gekennzeichnet, daß der als Schiffsrumpf ausgebildete Grundkörper (1) mit zumindest einem weiteren Grundkörper (1") und/oder mit dem Land (B) bzw. Grund verbunden ist und ausziehbare und/oder vorzugsweise zu einer Ebene ausklappbare, insbesondere überbrückende Teile, zum Beispiel Plattformteile, Gehflächen (23"), Stege, Brücken und dergleichen zur Bildung eines großflächigen ( 23, 23") Veranstaltungszentrums aufweist.</claim-text>
+    </claim>
+    <claim num="11" id="clm-00011-de">
+      <claim-text>14. Veranstaltungszentrum nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de clm-00007-de clm-00008-de clm-00009-de clm-00010-de" generated="true">Ansprüche 1 bis 13</claim-ref> , dadurch gekennzeichnet, daß zumindest ein Teil eines und/oder eines mit diesem verbundenen weiteren Grundkörpers (2") unter Bildung eines nach oben offenen Tiefraumes ( 25"), zum Beispiel für einen Orchestergraben, abdeckungsfrei bzw.
+ frei von einer Plattformfläche ( 23, 23") ist.
+ Veranstaltungszentrum nach einem der Ansprüche'l bis 14, dadurch gekennzeichnet, daß die Dachaufbauten (3',31', 3",3"') und/oder die Plattformen ( 23, 23", 5') und/oder die Seitenwände (32') bei nebeneinander und/oder hintereinander angeordneten einzelnen Veranstaltungseinrichtungen ( 1, 1") miteinander verbunden sind.
+ Hiezu 3 Zeichnungen ù 'l -</claim-text>
+    </claim>
+  </claims>
+  <drawings format="original">
+    <figure num="1">
+      <img he="N/A" wi="N/A" file="AT2U2_00001.PNG" alt="clipped image" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="2">
+      <img he="N/A" wi="N/A" file="AT2U2_00002.PNG" alt="drawing sheet" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="3">
+      <img he="N/A" wi="N/A" file="AT2U2_00003.PNG" alt="drawing sheet" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="4">
+      <img he="N/A" wi="N/A" file="AT2U2_00004.PNG" alt="drawing sheet" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="5">
+      <img he="N/A" wi="N/A" file="AT2U2_00005.PNG" alt="thumbnail image" img-content="drawing" img-format="png" />
+    </figure>
+  </drawings>
+  <image file="AT2U2.PDF" type="pdf" size="306219" pages="14" />
+</lexisnexis-patent-document>

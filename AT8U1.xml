@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright ©2024 LexisNexis Univentio, The Netherlands. -->
+<lexisnexis-patent-document schema-version="1.14.7" date-produced="20240920" time-produced="080554" file="AT8U1.xml" produced-by="LexisNexis-Univentio" lang="eng" date-changed="20220601" time-changed="074653" docdb-status="A" status="Ceased" status-date="19970715">
+  <bibliographic-data lang="eng">
+    <publication-reference publ-type="Grant" publ-group="Utility Model" publ-desc="Utility model with search report">
+      <document-id>
+        <country>AT</country>
+        <doc-number>8</doc-number>
+        <kind>U1</kind>
+        <date>19940926</date>
+      </document-id>
+      <document-id data-format="docdb" id="318359802">
+        <doc-number>8</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT8U</doc-number>
+      </document-id>
+    </publication-reference>
+    <application-reference>
+      <document-id>
+        <country>AT</country>
+        <doc-number>800694</doc-number>
+        <kind>U</kind>
+        <date>19931119</date>
+      </document-id>
+      <document-id data-format="original">
+        <country>AT</country>
+        <doc-number>800694</doc-number>
+        <kind>U</kind>
+        <date>19931119</date>
+      </document-id>
+      <document-id data-format="docdb" id="804003">
+        <doc-number>800694</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT19940008006U</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>eng</language-of-filing>
+    <language-of-publication>eng</language-of-publication>
+    <priority-claims>
+      <priority-claim sequence="1" generated="true" kind="national">
+        <country>AT</country>
+        <doc-number>800694</doc-number>
+        <date>19931119</date>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="docdb">
+        <country>AT</country>
+        <doc-number>800694</doc-number>
+        <date>19931119</date>
+        <priority-active-indicator>true</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="original">
+        <doc-number>0233993A</doc-number>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="epodoc">
+        <doc-number>AT19940008006U</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability date-changed="20120703">
+      <examined-printed-without-grant>
+        <date>19940926</date>
+      </examined-printed-without-grant>
+      <printed-with-grant>
+        <date>19940926</date>
+      </printed-with-grant>
+    </dates-of-public-availability>
+    <classification-ipc date-changed="20190212">
+      <main-classification>
+        <text> 5A 41D  13/00   A</text>
+        <edition>5</edition>
+        <section>A</section>
+        <class>41</class>
+        <subclass>D</subclass>
+        <main-group>13</main-group>
+        <subgroup>00</subgroup>
+        <qualifying-character>A</qualifying-character>
+      </main-classification>
+    </classification-ipc>
+    <classifications-ipcr date-changed="20190212">
+      <classification-ipcr sequence="1">
+        <text>A41D  31/00        20060101A I20051008RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>41</class>
+        <subclass>D</subclass>
+        <main-group>31</main-group>
+        <subgroup>00</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classifications-cpc date-changed="20190212">
+      <classification-cpc sequence="1">
+        <text>A41D  31/065       20190201 FI20190202BHEP        </text>
+        <cpc-version-indicator>
+          <date>20190201</date>
+        </cpc-version-indicator>
+        <section>A</section>
+        <class>41</class>
+        <subclass>D</subclass>
+        <main-group>31</main-group>
+        <subgroup>065</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20190202</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpc>
+      <classification-cpc sequence="2">
+        <text>A41D2400/14        20130101 LA20190205BHEP        </text>
+        <cpc-version-indicator>
+          <date>20130101</date>
+        </cpc-version-indicator>
+        <section>A</section>
+        <class>41</class>
+        <subclass>D</subclass>
+        <main-group>2400</main-group>
+        <subgroup>14</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <action-date>
+          <date>20190205</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpc>
+    </classifications-cpc>
+    <classifications-ecla date-changed="20190212">
+      <classification-ecla sequence="1" classification-scheme="EC" country="EP">
+        <text>A41D 31/00C6L</text>
+        <section>A</section>
+        <class>41</class>
+        <subclass>D</subclass>
+        <main-group>31</main-group>
+        <subgroup>00</subgroup>
+        <additional-subgroups>
+          <additional-subgroup sequence="1">C  </additional-subgroup>
+          <additional-subgroup sequence="2">6  </additional-subgroup>
+          <additional-subgroup sequence="3">L  </additional-subgroup>
+        </additional-subgroups>
+      </classification-ecla>
+      <classification-ecla sequence="1" classification-scheme="ICO" country="EP">
+        <text>K41D400:14</text>
+        <section>K</section>
+        <class>41</class>
+        <subclass>D</subclass>
+        <main-group>400</main-group>
+        <subgroup>14</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <number-of-claims calculated="yes">3</number-of-claims>
+    <invention-title id="title_ger" date-changed="20200222" lang="ger" format="original">AUFBLASBARES KLEIDUNGSSTÜCK</invention-title>
+    <invention-title id="title_eng" date-changed="20200222" lang="eng" format="machine translation">INFLATABLE ARTICLE OF CLOTHING</invention-title>
+    <references-cited date-changed="20190212">
+      <patent-citations name="patcit" date-changed="20190212" />
+      <forward-citations name="fwdcit" date-changed="20190212" />
+      <citation srep-phase="0">
+        <patcit num="1" dnum="DE3605677A1" dnum-type="publication number">
+          <document-id>
+            <country>DE</country>
+            <doc-number>3605677</doc-number>
+            <kind>A1</kind>
+            <name>KANEBO LTD [JP], et al</name>
+            <date>19860828</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>DE</country>
+            <doc-number>3605677</doc-number>
+            <kind>A1</kind>
+            <date>19860828</date>
+          </document-id>
+          <application-date>
+            <date>19860221</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="2" dnum="DE3010842A1" dnum-type="publication number">
+          <document-id>
+            <country>DE</country>
+            <doc-number>3010842</doc-number>
+            <kind>A1</kind>
+            <name>PREGLAU OTTO DR MED</name>
+            <date>19811001</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>DE</country>
+            <doc-number>3010842</doc-number>
+            <kind>A1</kind>
+            <date>19811001</date>
+          </document-id>
+          <application-date>
+            <date>19800321</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="3" dnum="US4185327A" dnum-type="publication number">
+          <document-id>
+            <country>US</country>
+            <doc-number>4185327</doc-number>
+            <kind>A</kind>
+            <name>MARKVE HOWARD J [US]</name>
+            <date>19800129</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>US</country>
+            <doc-number>4185327</doc-number>
+            <kind>A</kind>
+            <date>19800129</date>
+          </document-id>
+          <application-date>
+            <date>19780717</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="4" dnum="US3995320A" dnum-type="publication number">
+          <document-id>
+            <country>US</country>
+            <doc-number>3995320</doc-number>
+            <kind>A</kind>
+            <name>ZAFUTO SAMUEL L</name>
+            <date>19761207</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>US</country>
+            <doc-number>3995320</doc-number>
+            <kind>A</kind>
+            <date>19761207</date>
+          </document-id>
+          <application-date>
+            <date>19750718</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="5" dnum="US3771170A" dnum-type="publication number">
+          <document-id>
+            <country>US</country>
+            <doc-number>3771170</doc-number>
+            <kind>A</kind>
+            <name>LEON G</name>
+            <date>19731113</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>US</country>
+            <doc-number>3771170</doc-number>
+            <kind>A</kind>
+            <date>19731113</date>
+          </document-id>
+          <application-date>
+            <date>19720717</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="6" dnum="DE3008201A1" dnum-type="publication number">
+          <document-id>
+            <country>DE</country>
+            <doc-number>3008201</doc-number>
+            <kind>A1</kind>
+            <name>KONEGEN HEINZ OTTO ING GRAD</name>
+            <date>19810917</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>DE</country>
+            <doc-number>3008201</doc-number>
+            <kind>A1</kind>
+            <date>19810917</date>
+          </document-id>
+          <application-date>
+            <date>19800304</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="7" dnum="CH639542A5" dnum-type="publication number">
+          <document-id>
+            <country>CH</country>
+            <doc-number>639542</doc-number>
+            <kind>A5</kind>
+            <name>DESCENTE LTD [JP]</name>
+            <date>19831130</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>CH</country>
+            <doc-number>639542</doc-number>
+            <kind>A5</kind>
+            <date>19831130</date>
+          </document-id>
+          <application-date>
+            <date>19790813</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="8" dnum="DE1610647B2" dnum-type="publication number">
+          <document-id>
+            <country>DE</country>
+            <doc-number>1610647</doc-number>
+            <kind>B2</kind>
+            <date>19760624</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>DE</country>
+            <doc-number>1610647</doc-number>
+            <kind>B2</kind>
+            <date>19760624</date>
+          </document-id>
+          <application-date>
+            <date>19661027</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <fwdcit num="1">
+          <document-id>
+            <country>DE</country>
+            <doc-number>29706481</doc-number>
+            <kind>U1</kind>
+            <date>19970807</date>
+          </document-id>
+          <application-date>
+            <date>19970411</date>
+          </application-date>
+        </fwdcit>
+      </citation>
+      <citation srep-phase="0">
+        <fwdcit num="2">
+          <document-id>
+            <country>EP</country>
+            <doc-number>1525812</doc-number>
+            <kind>A1</kind>
+            <date>20050427</date>
+          </document-id>
+          <application-date>
+            <date>20041022</date>
+          </application-date>
+        </fwdcit>
+      </citation>
+    </references-cited>
+    <parties date-changed="20070806">
+      <applicants>
+        <applicant sequence="1" app-type="applicant">
+          <addressbook lang="eng">
+            <orgname>KOWATSCH CLAUDIA</orgname>
+            <orgname-standardized>KOWATSCH CLAUDIA</orgname-standardized>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+    </parties>
+    <current-assignees>
+      <current-assignee sequence="1">
+        <addressbook lang="eng">
+          <orgname>KOWATSCH CLAUDIA</orgname>
+          <orgname-standardized>KOWATSCH CLAUDIA</orgname-standardized>
+          <address>
+            <country>AT</country>
+          </address>
+        </addressbook>
+      </current-assignee>
+    </current-assignees>
+    <patent-family date-changed="20180928">
+      <domestic-family family-id="96592345" earliest-date="19931119">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>8</doc-number>
+            <kind>U1</kind>
+            <date>19940926</date>
+          </document-id>
+          <application-date>
+            <date>19931119</date>
+          </application-date>
+        </family-member>
+      </domestic-family>
+      <main-family family-id="62640704" earliest-date="19931119">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>8</doc-number>
+            <kind>U1</kind>
+            <date>19940926</date>
+          </document-id>
+          <application-date>
+            <date>19931119</date>
+          </application-date>
+        </family-member>
+      </main-family>
+      <complete-family family-id="62605145" earliest-date="19931119">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>8</doc-number>
+            <kind>U1</kind>
+            <date>19940926</date>
+          </document-id>
+          <application-date>
+            <date>19931119</date>
+          </application-date>
+        </family-member>
+      </complete-family>
+      <extended-family family-id="248002813" earliest-date="19931119">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>8</doc-number>
+            <kind>U1</kind>
+            <date>19940926</date>
+          </document-id>
+          <application-date>
+            <date>19931119</date>
+          </application-date>
+        </family-member>
+      </extended-family>
+      <simple-family family-id="34596326">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>8</doc-number>
+            <kind>U1</kind>
+            <date>19940926</date>
+          </document-id>
+          <application-date>
+            <date>19931119</date>
+          </application-date>
+        </family-member>
+      </simple-family>
+    </patent-family>
+  </bibliographic-data>
+  <legal-data date-changed="20170303">
+    <legal-event sequence="1">
+      <publication-date>
+        <date>19970715</date>
+      </publication-date>
+      <event-code-1>MM9K</event-code-1>
+      <effect>-</effect>
+      <legal-description>LAPSE DUE TO NON-PAYMENT OF RENEWAL FEE</legal-description>
+      <event-class code="H">IP RIGHT CESSATION</event-class>
+      <status-identifier>C</status-identifier>
+      <docdb-publication-number> AT           8U1</docdb-publication-number>
+      <docdb-application-id>804003</docdb-application-id>
+    </legal-event>
+  </legal-data>
+  <prime-notified-events date-changed="20190212">
+    <prime-notified-section name="Status">
+      <prime-notified-event name="Filed" sequence="1">
+        <event-date>
+          <date>19931119</date>
+        </event-date>
+        <event-details>
+          <detail>FILED</detail>
+          <detail-standardized>FILED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Granted" sequence="2">
+        <event-date>
+          <date>19940926</date>
+        </event-date>
+        <event-details>
+          <detail>GRANTED</detail>
+          <detail-standardized>GRANTED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Ceased" sequence="3">
+        <event-date>
+          <date>19970715</date>
+        </event-date>
+        <event-details>
+          <detail>LAPSE DUE TO NON-PAYMENT OF RENEWAL FEE</detail>
+          <detail-standardized>LAPSE DUE TO NON-PAYMENT OF RENEWAL FEE</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+    <prime-notified-section name="Ownership">
+      <prime-notified-event name="Owner" sequence="1">
+        <event-date>
+          <date-from>19931119</date-from>
+        </event-date>
+        <event-details lang="eng">
+          <detail>KOWATSCH CLAUDIA</detail>
+          <detail-standardized>KOWATSCH CLAUDIA</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+  </prime-notified-events>
+  <description id="descr_ger" lang="ger" format="ocr" date-changed="20091120">
+    <p>Die Isolierung von Kleidungsstilen wird gleicherweise durch voluminöse C w bc oder feste Füllstoff wie Wolle, Daunc, Kunstfaser etc. erreicht.</p>
+    <p>Die Erfmdmlg bezieht sich auf ein B«kl¢idungssrack, das w ber=ichs'weise Kammern aufweh die dm'eh Off mag, n niit Atemluft oder anderen Gasen bei Bedarf gcff lk werden können.</p>
+    <p>Durch die Crasschichtc kann eine Isoli¢nmg der Körpertemperatur gcgenfiber der Umgeb peralazr erreicht werden_ Das Kleidungsstil ha aufgrund des fehlenden festen Fffllmal=riats ein geringeres Gewicht sowie ein kleines Transportvolum¢n im enfl¢ertea Zustand In C.xebi¢ten, in denen unerwähnte Temp¢ra%%lr¢n eintreten können (Wf : Hochg«birge...), ist diese Kleidung von Vorteil, weil sie entweder im entleerten Zustand als Windund Wettersehulz dienen kann oder im gefftllten Zustand ab g von d=r Außenmmperatur wannend oder k-ahlend wirken kann.</p>
+    <p>Die aufblasbaren Kammern bestehen am gasuadurchl ssigcm flexiblen Material, vorzugs cis¢ Km ₜ.stoff. Die Kammern werd¢a so aufgebaut se d ß sie sich nicht so weit entfalle, bis die Beweg_lichkeit des Trägers wesentlich eingeschrankt ist.</p>
+    <p>Die Kemel könnea durch Schlauche, p ll verschv¢eißte Flachen etc. hergestellt werden.</p>
+    <p>Das Material der Kammern kanu berciU das Kleidungsstil bilden.</p>
+    <p>Die Kammern können auch von Gewoben umgeben sein. Offùuagen, die zwischen den :. Kammern entstehen oder in diese eingebaut werden kömaen (Figuren 3,4,5,6), erm6 tichen dem K60 die Transpiration nach außen und ha!ten diesen somit trocken. Deshalb sollte das rn eb¢nd¢ Ntiaterial ra glichst ein atmmlgsak vcs Gewebe seiß vorzugsweise eine Microfascr, die das Entweichen der Transpiration crmögticht, jedoch Umwelzeimfl se wie Sctmcc, Regen, Wind ₜ c. nicht durchdringen I ßt.</p>
+    <p>Die Kammern weisen möglichst einfuhr erreichbare mad verschließbare ÖtTmu gen auf.</p>
+    <p>Am Kleidungsstil körnen Taschen augebm ht sein.</p>
+    <p>Am Kloid ngsgt vorz swei am de Blinden, k6lmen GnmmiTfige, .Ku pfc, Kletwersehlfxsse, Reißverschluss, Schurre etc. z-am Variieren der Weite befestigt sein.</p>
+    <p>._Das Klcidmagsstüek kann so gestaltet sein, daß es in sich selbst durch ZusammenIcgen verpackt und auf diese Weise einfach transportiert werden lr n Beislrielsweise k nn eine Jacke in die am Herausschnitt befestigte Kaptur gepackt werden, deren Sclm rbgud r als Riemen um die K6 : -rmirtc gebunden werden.</p>
+    <p>Das Kleidungstück, vorzugsweise eine Jacke die aus zwei verschließbaren Vorderteil einem Rutenteil, vci .Zamcla sowie einem Halsaussehn U besteht, kann an den Sekenteüen durchlaufende Verschlüsse CRcißverschlußo Klettverschluß, Da'uckknöpfe:</p>
+    <p>Y, m6pfe, etc.) haben, wodurch der geschlossene Vordertcü vom Rfickentcil getrennt und die 25xrmcl abgenornmca werden könnc Auseinandergeklappt ergeben Vorderteil und Rfickenteil somit eine weiche, die Bodcnunebmahei en ans eich nd¢ und isolierende Matte zum Sitzen und Liegen (zB:Biv,- kiemn).</p>
+    <p>Di md k von ₜ r Achsel bis zur mk V¢:r M (P iBv s hluß, Klettverschluß, Dm e 6pfe, Knöpfe: ) porselen wodurch ä zum Schinna von K m Vorletzt v wend t werden kö-n - Am kann n Krase oder ne Kapuze bracht J.</p>
+    <p>F I st 11t Jac, k dar. Die Jacke b ht aus zwei Vorweg In diesen können aufblasbar I mm m enthalten sein. Die Vorderteil kOnn -n äutch Ver hlfisse mit - nd verba werden Die Jad besteht aus Rfie k nt il d r aufblasbar Kammern Chalon kram. Die Jacke m zw¢ haben di¢ m lasbar Kammern t n k#nn¢n. Di Jacke ist reiflich mit V hl s n v Fi 2 stritt die Jar aus Fig. I dar, wenn die uneI an d n V s hl n abg r -rmt und die glichen V s hlfiss geöffnet sind. Dadurch sich Vord rund P k n l pogen und das Kl i k kann als S zoder Liogount I dienen.</p>
+    <p>Fi 3 st n Zuschnitt möglich F mm ems (a) nn nicht « b n Zustand dar, das an beide S Um von C v b (b) umh011t ist. Zwischen d K mrn rn kann di Kö¢I q htigk it nach auß ntw iCh n (c).</p>
+    <p>ù Fig. 4 st 11 d n Qum h von Fiß 3 im S hBgriß dar, vob i di Kammern (a) gasg Ilt und deshalb rw it rt Die sind von Gewebe Co) umhfilIt_ Fig. 5 sollt i m lich I sung ur di Abordnung d Schlauche im l n Vozd rt Jacke (F 1) daz. Fig. 5 a zeigt das die I rn un bend Ge l Fig. 5 b z gt ,:km amt:blasbazen Ina I. Fi 5 ₜ di mOgIich Off uug im T'rmC a ß di di m durch di Schw n,Sh Fom und Fe ägkoit d n Aus'1zitt d r K u h -möglicä a sohin. Fig. 5 d z gt s hl hanig Offnun zum -i ff ll n d s Gases beim Halsausschn Fig. 6 s ltt weite möglich Lösung nr di Kamm m dar. Fi 6. a b / chn t das dio F mm m Gwe Fig. 6 b dm außlas m en L Fig. 6 c z i t kig Hoffnung Inn tdl s, die di durch di Schweißnaht Form und ..F dgk körne d n Aus d r K hü kd, möglioh a sohin. Fig. 6 d zdgt schlauchartig u z m E n Gas Halsausschnitt.</p>
+    <p>Fig. 7 stellt cinc w tm'ₜ m6gläohe Löser f das Kamm¢rsystem dar. Zwei gasdichte G-ew«[m Widim ptmkttmll Verbund tma im aufgebaut Zustand flache Form b¢im balt¢ AT 000 008 UI 1. Belrl i dadurch g¢ a iₜ]m¢t, daß ¢s w b¢ chsw¢is¢ Gas, nö¢ mit Lu aufblasbar 2. Bekleidungsstil na¢h Anspruch 1, dadurch gck¢nnz¢ichn©t, daß dic Vord¢xt ₜ und der P k¢nt¢il Jacke aufblasbar Kammern enthalten und x R die Voziere vom P k ¢il an den Seiten abtr¢rmb.ar sind.</p>
+    <p>3. B¢kl¢i k nar, h 1 oder 2, ch g k¢nnz ₜIm¢t,, daß di¢ Anncl einer Jacke Rn'ₜ I tg¢ &amp;nr, bg¢h¢nd aufblasbare Kammern enthalten und R dic Xuncl von der Jac, k¢ sind.</p>
+  </description>
+  <description id="descr_eng" lang="eng" format="machine translation" date-changed="20091120">
+    <p>The isolation of clothe styles is reached equally by voluminöse C w bc or firm filler as wool, Daunc, artificial fiber etc.
+ The Erfmdmlg refers to a B “kl¢idungssrack, which likes w ber=ichs'weise chambers up pain dm'eh the off, n niit breathing air or other gases if necessary gcff process card to become to be able.
+ By the Crasschichtc a Isoli¢nmg of the Körpertemperatur knows more gcgenfiber the Umgeb peralazr reached werden_ the clothe style the ha due to the missing firm Fffllmal=riats a smaller weight as well as a small Transportvolum¢n in enfl¢ertea the condition in C.xebi¢ten, which unmentioned Temp¢ra%%lr¢n can enter (Wf: Hochg “birge…), are this clothes of advantage, because it can serve either in the emptied condition as Windund Wettersehulz or in the gefftllten condition starting from g of d=r Außenmmperatur when-ends or bald-end work can.
+ The inflatable chambers exist km at gasuadurchl ssigcm the flexible material, preference/advantage cis¢ ₜ .stoff. The chambers wird¢a so developed SE D ß it so far are not void themselves, until the Beweg_lichkeit of the carrier is substantially eingeschrankt.
+ The Kemel könnea through hose, p ll verschv¢eißte flattening etc. to be manufactured.
+ The material of the chambers kanu berciU for the clothe style form.
+ The chambers can be surrounded by Gewoben also. Offùuagen, between:. Chambers to develop or into these be built kömaen (figures 3.4.5.6), erm6 tichen the K60 the transpiration outward and ha! ten these thus drying. Therefore rn eb¢nd¢ the Ntiaterial RA should resembled atmmlgsak vcs a fabric seiß a Microfascr, which crmögticht escaping the transpiration, however Umwelzeimfl SE such as Sctmcc, rain, wind ₜ C. preferably does not penetrate I ßt.
+ The chambers exhibit if possible brought in attainable WAD lockable ÖtTmu towards.
+ At the clothe style bags roughen augebm ht its.
+ At the Kloid vorz swei to de blind ones, k6lmen GnmmiTfige ngsgt. Ku pfc, Kletwersehlfxsse, zipper, Schurre etc. z-to varying the width fastened its.
+ . _Das Klcidmagsstüek can be so arranged that in itself by ZusammenIcgen are packed and in this way simply transported lr n Beislrielsweise k nn a jacket in to cut out fastened Kaptur are packed, their Sclm rbgud r as belts around the K6: - rmirtc to be bound.
+ The Kleidungstück, preferably a jacket the front part a Rutenteil, vci lockable from two. Zamcla as well as one neck-from-long U exists, can at the Sekenteüen passing catches CRcißverschlußo Klettverschluß, Da'uckknöpfe:
+ Y, m6pfe, etc.) have, whereby the closed Vordertcü separately from the Rfickentcil and the 25xrmcl becomes abgenornmca könnc Auseinandergeklappt results in front part and Rfickenteil thus a soft, the Bodcnunebmahei EN to calibrate nd¢ and isolating mat for sitting and lying (e.g.: Biv, - kiemn).
+ Di MD k of ₜ r shoulder up to mk the V¢: r M (P iBv s hluß, Klettverschluß, DM e 6pfe, buttons: ) porselen whereby ä to the Schinna of K m next to last v turn t become kö n - to n Krase or ne hood can broke J.
+ F I st 11t Jac, k. The jacket b ht from two in front in these inflatably I mm m can be contained. The front part kOnn - n äutch hlfisse also - lp verbs become the Jad consists of Rfie k NT IL D r inflatably chambers Chalon stuff. Zw¢ di¢ m have the jacket m readable chambers t n k#nn¢n. Di Jacke is carefully with V hl s n v Fi 2 argued the Jar from Fig. I, if uneI at D n V s hl the n abg r - FCS and resembled V s hlfiss are opened. Thus itself Vord approximately P k n l pogen and the Kl i k can serve I as S of zoder Liogount.
+ Fi 3 does not st n cut possible F mm of Ems (A) nn “b n condition, which is to both S over of C v b (B) umh011t. Between D K mrn rn di Kö¢I q can htigk it after outer ntw I n (C).
+ ù Fig. 4 11 D n Qum h von Fiß 3 in S st hBgriß, vob i di Kammern (A) gasg Ilt and therefore rw blank those is it from fabric CO) umhfilIt_ Fig. 5 are i m lich I sung ur di Abordnung D hose in the l n Vozd blank   Jacket (F 1) daz. Fig. that shows 5the I rn un bend Ge l Fig. 5b z gt: km office: blasbazen Ina Ith Fi 5 ₜ di mOgIich off uug in the T'rmC A ß di di m by di Schw n, Sh Fom and Fe ägkoit D n Aus'1 zitt D r K u h - möglicä A sohin. Fig. 5 D z s gt hl hanig Offnun to - the i FF ll n D s of gas with the Halsausschn Fig. 6 s ltt far possible solution NR di Kamm m. Fi 6th A b/chn t dio the F mm m Gwe Fig. m EN L Fig outer-read 6 b DM. 6 C z i t kig hope Inn tdl s, di by di Schweißnaht the form and. F dgk roughens D n from D r K hü kd, möglioh A sohin. Fig. 6 D zdgt hose-like u z m E n gas neck cutout.
+ Fig. cinc w represents 7 tm'ₜ m6gläohe Löser f the Kamm¢rsystem. Two gas density G-ew “[m Widim ptmkttmll group tma developed in the condition flat form b¢im balt¢ RK 000,008 UI 1st Belrl i thereby g¢ A i ₜ] it m¢t that ¢s w gck¢nnz¢ichn©t b¢ chsw¢is¢ gas, nö¢ with Lu inflatably 2nd clothing style na¢h requirement 1, thus that dic Vord¢xt ₜ and the P k¢nt¢il jacket inflatably chambers contained and x R are the Voziere of the P k ¢il at the sides abtr¢rmb.ar.
+ 3. B¢kl¢i k nar, h 1 or 2, CH g k¢nnz ₜ Im¢t, that di¢ Anncl of a jacket are Rn'ₜ I tg¢ &amp;nr, bg¢h¢nd inflatable chambers contained and R dic Xuncl of the Jac, k¢.</p>
+  </description>
+  <claims id="claims_eng" lang="eng" format="machine translation" date-changed="20200222">
+    <claim num="1">
+      <claim-text>1. Belrl i thereby g¢ A i ₜ] m¢t that ¢s w b¢ chsw¢is¢ gas, nö¢ with Lu inflatably</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. Clothing style na¢h requirement 1, thus gck¢nnz¢ichn©t that dic Vord¢xt ₜ and the P k¢nt¢il jacket inflatably chambers contained and x R are the Voziere of the P k ¢il at the sides abtr¢rmb.ar.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. B¢kl¢i k nar, h 1 or 2, CH g k¢nnz ₜ Im¢t, that di¢ Anncl of a jacket are Rn'ₜ I tg¢ &amp;nr, bg¢h¢nd inflatable chambers contained and R dic Xuncl of the Jac, k¢.</claim-text>
+    </claim>
+  </claims>
+  <claims id="claims_ger" lang="ger" format="ocr" date-changed="20200222">
+    <claim num="1" id="clm-00001-de" independent="true">
+      <claim-text>1. Belrl i dadurch g¢ a iₜ]m¢t, daß ¢s w b¢ chsw¢is¢ Gas,  nö¢ mit Lu aufblasbar</claim-text>
+    </claim>
+    <claim num="2" id="clm-00002-de">
+      <claim-text>2. Bekleidungsstil na¢h <claim-ref idref="clm-00001-de" generated="true">Anspruch 1</claim-ref> , dadurch gck¢nnz¢ichn©t, daß dic Vord¢xt ₜ und der P k¢nt¢il Jacke aufblasbar Kammern enthalten und x R die Voziere vom P k ¢il an den Seiten abtr¢rmb.ar sind.</claim-text>
+    </claim>
+    <claim num="3" id="clm-00003-de" independent="true">
+      <claim-text>3. B¢kl¢i k nar, h 1 oder 2, ch g k¢nnz ₜIm¢t,, daß di¢ Anncl einer Jacke Rn'ₜ I tg¢ &amp;nr, bg¢h¢nd aufblasbare Kammern enthalten und R dic Xuncl von der Jac, k¢ sind.</claim-text>
+    </claim>
+  </claims>
+  <drawings format="original">
+    <figure num="1">
+      <img he="N/A" wi="N/A" file="AT8U1_00001.PNG" alt="clipped image" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="2">
+      <img he="N/A" wi="N/A" file="AT8U1_00002.PNG" alt="drawing sheet" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="3">
+      <img he="N/A" wi="N/A" file="AT8U1_00003.PNG" alt="drawing sheet" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="4">
+      <img he="N/A" wi="N/A" file="AT8U1_00004.PNG" alt="drawing sheet" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="5">
+      <img he="N/A" wi="N/A" file="AT8U1_00005.PNG" alt="drawing sheet" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="6">
+      <img he="N/A" wi="N/A" file="AT8U1_00006.PNG" alt="drawing sheet" img-content="drawing" img-format="png" />
+    </figure>
+    <figure num="7">
+      <img he="N/A" wi="N/A" file="AT8U1_00007.PNG" alt="thumbnail image" img-content="drawing" img-format="png" />
+    </figure>
+  </drawings>
+  <image file="AT8U1.PDF" type="pdf" size="224307" pages="7" />
+</lexisnexis-patent-document>

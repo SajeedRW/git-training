@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright ©2024 LexisNexis Univentio, The Netherlands. -->
+<lexisnexis-patent-document schema-version="1.14.7" date-produced="20240920" time-produced="080553" file="AT1U3.xml" produced-by="LexisNexis-Univentio" lang="eng" date-changed="20120626" time-changed="064022" docdb-status="A" status="Ceased" status-date="20020715">
+  <bibliographic-data lang="eng">
+    <publication-reference publ-type="Grant" publ-group="Patent" publ-desc="Search report only">
+      <document-id>
+        <country>AT</country>
+        <doc-number>1</doc-number>
+        <kind>U3</kind>
+        <date>19950125</date>
+      </document-id>
+      <document-id data-format="docdb">
+        <doc-number>1</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT1U</doc-number>
+      </document-id>
+    </publication-reference>
+    <application-reference>
+      <document-id>
+        <country>AT</country>
+        <doc-number>1494</doc-number>
+        <kind>U</kind>
+        <date>19940414</date>
+      </document-id>
+      <document-id data-format="docdb" id="546648">
+        <doc-number>1494</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT19940000014U</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-filing>eng</language-of-filing>
+    <language-of-publication>eng</language-of-publication>
+    <priority-claims date-changed="20070815">
+      <priority-claim sequence="1" kind="national">
+        <country>AT</country>
+        <doc-number>1494</doc-number>
+        <date>19940414</date>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="docdb">
+        <country>AT</country>
+        <doc-number>1494</doc-number>
+        <date>19940414</date>
+        <priority-active-indicator>true</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="epodoc">
+        <doc-number>AT19940000014U</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <dates-of-public-availability date-changed="20090504">
+      <supplemental-srep-reference>
+        <date>19950125</date>
+      </supplemental-srep-reference>
+    </dates-of-public-availability>
+    <classification-ipc date-changed="20121213">
+      <main-classification>
+        <text> 6A 44B  11/04   A</text>
+        <edition>6</edition>
+        <section>A</section>
+        <class>44</class>
+        <subclass>B</subclass>
+        <main-group>11</main-group>
+        <subgroup>04</subgroup>
+        <qualifying-character>A</qualifying-character>
+      </main-classification>
+    </classification-ipc>
+    <classifications-ipcr date-changed="20121213">
+      <classification-ipcr sequence="1">
+        <text>A44B  11/12        20060101A I20051008RMEP        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>A</section>
+        <class>44</class>
+        <subclass>B</subclass>
+        <main-group>11</main-group>
+        <subgroup>12</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20051008</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classifications-cpc date-changed="20121213">
+      <classification-cpc sequence="1">
+        <text>A44B  11/12        20130101  I20130101BHEP        </text>
+        <cpc-version-indicator>
+          <date>20130101</date>
+        </cpc-version-indicator>
+        <section>A</section>
+        <class>44</class>
+        <subclass>B</subclass>
+        <main-group>11</main-group>
+        <subgroup>12</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+        <generating-office>
+          <country>EP</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpc>
+    </classifications-cpc>
+    <classifications-ecla date-changed="20121213">
+      <classification-ecla sequence="1" classification-scheme="EC" country="EP">
+        <text>A44B 11/12</text>
+        <section>A</section>
+        <class>44</class>
+        <subclass>B</subclass>
+        <main-group>11</main-group>
+        <subgroup>12</subgroup>
+      </classification-ecla>
+    </classifications-ecla>
+    <invention-title id="title_ger" date-changed="20200221" lang="ger" format="original">KLEMMSCHNALLE MIT STECKLASCHE</invention-title>
+    <invention-title id="title_eng" date-changed="20200221" lang="eng" format="machine translation">KLEMMSCHNALLE WITH PUTTING LATCH</invention-title>
+    <references-cited date-changed="20120626">
+      <patent-citations name="patcit" date-changed="20120626" />
+      <citation srep-phase="0">
+        <patcit num="1" dnum="DE2917327A1" dnum-type="publication number">
+          <document-id>
+            <country>DE</country>
+            <doc-number>2917327</doc-number>
+            <kind>A1</kind>
+            <date>19791108</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>DE</country>
+            <doc-number>2917327</doc-number>
+            <kind>A1</kind>
+            <date>19791108</date>
+          </document-id>
+          <application-date>
+            <date>19790428</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="2" dnum="DE2114714A1" dnum-type="publication number">
+          <document-id>
+            <country>DE</country>
+            <doc-number>2114714</doc-number>
+            <kind>A1</kind>
+            <date>19720413</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>DE</country>
+            <doc-number>2114714</doc-number>
+            <kind>A1</kind>
+            <date>19720413</date>
+          </document-id>
+          <application-date>
+            <date>19710326</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="3" dnum="US3192588A" dnum-type="publication number">
+          <document-id>
+            <country>US</country>
+            <doc-number>3192588</doc-number>
+            <kind>A</kind>
+            <date>19650706</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>US</country>
+            <doc-number>3192588</doc-number>
+            <kind>A</kind>
+            <date>19650706</date>
+          </document-id>
+          <application-date>
+            <date>19620221</date>
+          </application-date>
+        </patcit>
+      </citation>
+    </references-cited>
+    <parties date-changed="20070806">
+      <applicants>
+        <applicant sequence="1" app-type="applicant">
+          <addressbook lang="eng">
+            <orgname>OETSCHER BERUFSKLEIDUNG GOETZL</orgname>
+            <orgname-standardized>OETSCHER BERUFSKLEIDUNG GOETZL</orgname-standardized>
+            <address>
+              <country>AT</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+    </parties>
+    <current-assignees>
+      <current-assignee sequence="1">
+        <addressbook lang="eng">
+          <orgname>OETSCHER BERUFSKLEIDUNG GOETZL</orgname>
+          <orgname-standardized>OETSCHER BERUFSKLEIDUNG GOETZL</orgname-standardized>
+          <address>
+            <country>AT</country>
+          </address>
+        </addressbook>
+      </current-assignee>
+    </current-assignees>
+    <patent-family date-changed="20180928">
+      <domestic-family family-id="39075189" earliest-date="19940105">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1494</doc-number>
+            <kind>A</kind>
+            <date>19981115</date>
+          </document-id>
+          <application-date>
+            <date>19940105</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>405279</doc-number>
+            <kind>B</kind>
+            <date>19990625</date>
+          </document-id>
+          <application-date>
+            <date>19940105</date>
+          </application-date>
+        </family-member>
+      </domestic-family>
+      <main-family family-id="125286766" earliest-date="19940414">
+        <family-member>
+          <document-id>
+            <country>DE</country>
+            <doc-number>9418135</doc-number>
+            <kind>U1</kind>
+            <date>19950216</date>
+          </document-id>
+          <application-date>
+            <date>19941111</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+      </main-family>
+      <complete-family family-id="123673558" earliest-date="19940414">
+        <family-member>
+          <document-id>
+            <country>DE</country>
+            <doc-number>9418135</doc-number>
+            <kind>U1</kind>
+            <date>19950216</date>
+          </document-id>
+          <application-date>
+            <date>19941111</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+      </complete-family>
+      <extended-family family-id="248127985" earliest-date="19940414">
+        <family-member>
+          <document-id>
+            <country>DE</country>
+            <doc-number>9418135</doc-number>
+            <kind>U1</kind>
+            <date>19950216</date>
+          </document-id>
+          <application-date>
+            <date>19941111</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+      </extended-family>
+      <simple-family family-id="3479253">
+        <family-member>
+          <document-id>
+            <country>DE</country>
+            <doc-number>9418135</doc-number>
+            <kind>U1</kind>
+            <date>19950216</date>
+          </document-id>
+          <application-date>
+            <date>19941111</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U3</kind>
+            <date>19950125</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>1</doc-number>
+            <kind>U2</kind>
+            <date>19940725</date>
+          </document-id>
+          <application-date>
+            <date>19940414</date>
+          </application-date>
+        </family-member>
+      </simple-family>
+    </patent-family>
+  </bibliographic-data>
+  <legal-data date-changed="20170303">
+    <legal-event sequence="1">
+      <publication-date>
+        <date>20020715</date>
+      </publication-date>
+      <event-code-1>MM9K</event-code-1>
+      <effect>-</effect>
+      <legal-description>LAPSE DUE TO NON-PAYMENT OF RENEWAL FEE</legal-description>
+      <event-class code="H">IP RIGHT CESSATION</event-class>
+      <status-identifier>C</status-identifier>
+      <docdb-publication-number> AT           1U2</docdb-publication-number>
+      <docdb-application-id>546648</docdb-application-id>
+    </legal-event>
+  </legal-data>
+  <prime-notified-events date-changed="20170303">
+    <prime-notified-section name="Status">
+      <prime-notified-event name="Filed" sequence="1">
+        <event-date>
+          <date>19940414</date>
+        </event-date>
+        <event-details>
+          <detail>FILED</detail>
+          <detail-standardized>FILED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Granted" sequence="2">
+        <event-date>
+          <date>19940725</date>
+        </event-date>
+        <event-details>
+          <detail>GRANTED</detail>
+          <detail-standardized>GRANTED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Ceased" sequence="3">
+        <event-date>
+          <date>20020715</date>
+        </event-date>
+        <event-details>
+          <detail>LAPSE DUE TO NON-PAYMENT OF RENEWAL FEE</detail>
+          <detail-standardized>LAPSE DUE TO NON-PAYMENT OF RENEWAL FEE</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+    <prime-notified-section name="Ownership">
+      <prime-notified-event name="Owner" sequence="1">
+        <event-date>
+          <date-from>19940414</date-from>
+        </event-date>
+        <event-details lang="eng">
+          <detail>OETSCHER BERUFSKLEIDUNG GOETZL</detail>
+          <detail-standardized>OETSCHER BERUFSKLEIDUNG GOETZL</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+  </prime-notified-events>
+  <description id="descr_ger" lang="ger" format="ocr" date-changed="20090515">
+    <p> Republik Österreich Patentamt (11) Nummer: <b>AT 000 001 US</b> (12) <b>RECHERCHENBERICHT</b><b>(GEBRAUCHSMUSTERSCHRIFT)</b> (21) Anmeldenumner: 14/94 (22) Araieldetag: 14. 4.1994 (42) Begim der Schutzdauet: 15. 6.1994 (45) Ausgabetag: 25. 1.1995 <b>(51) int.ci.<sup>6</sup> : A44B 11/04</b> (73) Gebrauchsmusterinhaber: ÖTSCHER-BERUFSKLEIDUNG, GÖTZL G.M.B.H. A-3300 AMSTETTEN, NIEDERÖSTERREICH (AT). </p>
+    <p>(54) KLEMMSCHNALLE MIT STECKLASCHE <i>TNR&amp;nWB</i> ÖSTERREICHISCHES PAIENTAMT <b>Koilmadü 8-10</b><b>A-lOWTOen</b><b>Telefiant (0043) 1-53424-520</b><b>Aameldenuiniacn</b> GM 14/94 RECHERCHENBERICHT A. KLASSIFIZIERUNG DES ANMELDUNGSGEGENSTANDES A 44 B 11/04 <b>Nach der InJeuiaiioiialeE Palentklassifilaöon <i>(WC)</i></b> B. ALS WESENTLICH ANGESEHENE UNTERLAGEN <b>Kaiegorie* BczsklmmigdcrVeiö£ralfidmiig,soweäafoideiüch.o&amp;terA]ig3bedermBetiaciitkommeiide&amp;T«iie Beti-Anspracl Nr.</b><b>X</b><u>DE-Al-2</u> 917 327 (Illinois Tool Works Inc.) * Figur 10 * DE-A- 2 114 714 (Fildan) * Ansprüche,Figuren * <u>US-A-3 192 588 </u>(P.W. WHITE) * Ansprüche, Figuren * <b>D Weitste Vcröffenüicbmigensmd der Forttetzmg von FeUC zu etitMlmieii</b><b>* Besondere Kategorien von argegebeaen VeröffentHclmngen</b><b>" A " VeröS'emJidumg.-.die den allgemeinen Stand der Technik deS-niett, aber aäcltt als bedeutsam <i>snzascbea </i>ist</b><b>" X " V«6ffeiilliclHing,voii besonderer Bedeutung; die beanqniiehte Ecfindusgbzv. der aagefübtte Teü kann allein auferond dieser Veröffentüchniig nicht als neu oder auf ezfisdeäseher Tätigkeit beniend beöaehtet weiden</b><b>" Y " Veröfientlichnng von besonderer Bedeutung; die beanspruchte Etfindnsgbzw. der angeführte Tal <i>Taim </i>nicht als auf erfinderi­scher Tätigkeit beruhend betrachtet weiden, wenn die Veröf­fentlichung mit einer oder mehieren VeiöfFentfichungen dieser Kategone in Veibinthmg gebracht wird <i>md </i>diese Veibindung für einen Fachmann naheliegend ist</b><b>" <i>&amp; </i>" Veröffentlichung, die Mitglied derselben Patentfemilic ist</b><b>Datum des Abschlusses der Recherche</b><b>Referent</b> 10. Oktober 1994 Dipl.-Ing.Netzer e. h. </p>
+    <p>Vordiuck GM 3U.- Recherchenbericht- 500 - Z1.1744/Präs|.94 </p>
+  </description>
+  <description id="descr_eng" lang="eng" format="machine translation" date-changed="20090515">
+    <p> Republic of Austria patent office (11) number: <b>RK 000,001 US</b> (12) <b>SEARCH REPORT (UTILITY MODEL WRITING)</b> (21) Anmeldenumner: 14/94 (22) Araieldetag: 14. 4,1994 (42) Begim of the Schutzdauet: 15. 6,1994 (45) expenditure day: 25. 1,1995 <b>(51) int.ci.6: A44B 11/04</b> (73) utility model owner: ÖTSCHER WORKING CLOTHES, GÖTZL G.M.B.H.A-3300 AMSTETTEN, LOWER AUSTRIA (RKs).  </p>
+    <p>(54) KLEMMSCHNALLE WITH PUTTING LATCH <i>TNR&amp;nWB</i> AUSTRIAN PAIENTAMT <b>Koilmadü 8-10A-lOWTOenTelefiant (0043) 1-53424-520Aameldenuiniacn</b> GM 14/94 SEARCH REPORT A. CLASSIFICATION of the REGISTRATION ARTICLE A 44 B 11/04 <b>after the InJeuiaiioiialeE Palentklassifilaöon <i>(WC)</i></b> B. AS SUBSTANTIAL REPUTATION DOCUMENTS <b>Kaiegorie* BczsklmmigdcrVeiö£ralfidmiig, soweäafoideiüch.o&amp;terA] ig3bedermBetiaciitkommeiide&amp;T “iie Beti Anspracl Nr.XDE-Al-2</b> 917,327 (Illinois Tool Works Inc.) * figure 10 * DE-A of 2,114,714 (Fildan) * requirements, figures * <u>US-A-3 192,588</u> (P.W. WHITE) * requirements, figures * <b>D Weitste Vcröffenüicbmigensmd of the Forttetzmg from FeUC to etitMlmieii* special categories of argegebeaen VeröffentHclmngen " A “VeröS'emJidumg. - the .die general state of the art the niett, but aäcltt as important <i>snzascbea</i> is” X” V “6ffeiilliclHing, voii special meaning; the beanqniiehte Ecfindusgbzv. the aagefübtte Teü cannot feast alone auferond this Veröffentüchniig as new or on ezfisdeäseher activity beniend beöaehtet " Y “Veröfientlichnng of special importance; the stressed Etfindnsgbzw. the aforementioned valley being based regarded do not feast <i>Taim</i> as on inventive activity, if the publication is brought with or mehieren VeiöfFentfichungen of these Kategone in Veibinthmg to <i>MD</i> this Veibindung for a specialist is obvious” <i>&amp;</i>” publication, the member the same Patentfemilic istDatum the conclusion the search adviser</b> 10 October 1994 Dipl. - Ing.Netzer e. h.  </p>
+    <p>Vordiuck GM 3U. - Search report 500 - Z1.1744/Präs|.94  </p>
+  </description>
+  <claims id="claims_eng" lang="eng" format="equivalent" generated="true" country="DE" doc-number="9418135" kind="U1">
+    <claim num="1">
+      <claim-text>1. clamping buckle for carriers, characterized in that the clamping buckle (1) comprising a buckle tongue (2) is provided.</claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. clamping buckle according to claim 1, characterized in that it comprises a opening (3) has, configured, only from a direction that the carrier can be introduced and in it there by a clamp (5) can be clamped.</claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. clamping buckle according to any of the preceding claims, characterized in that the clamping buckle (1) with the insertion flap (2) in a second tab (4) can be inserted and fixed.</claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. clamping buckle according to any of the preceding claims, characterized in that it is made of a plastic, preferably polyamide 6, is.</claim-text>
+    </claim>
+  </claims>
+  <drawings format="equivalent" generated="true" country="DE" doc-number="9418135" kind="U1">
+    <figure num="1">
+      <img he="N/A" wi="N/A" file="DE9418135U1_00001.PNG" alt="clipped image" img-content="drawing" img-format="png" original="9418135U1.TC.SD.P0000.D0000.png" />
+    </figure>
+    <figure num="3">
+      <img he="N/A" wi="N/A" file="DE9418135U1_00003.PNG" alt="thumbnail image" img-content="drawing" img-format="png" original="9418135U1.TC.SD.P0000.D0000.png" />
+    </figure>
+  </drawings>
+  <image file="AT1U3.PDF" type="pdf" size="49996" pages="2" />
+</lexisnexis-patent-document>

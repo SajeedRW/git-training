@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright ©2022 LexisNexis Univentio, The Netherlands. -->
+<lexisnexis-patent-document schema-version="1.14.6" date-produced="20221125" time-produced="020113" file="AT15951U9.xml" produced-by="LexisNexis-Univentio" lang="eng" date-inserted="20181129" time-inserted="100011" date-changed="20210224" time-changed="142927" docdb-status="A" status="Ceased" status-date="20200630">
+  <bibliographic-data lang="eng">
+    <publication-reference publ-type="Grant" publ-group="Utility Model" publ-desc="Modified complete specification utility model">
+      <document-id>
+        <country>AT</country>
+        <doc-number>15951</doc-number>
+        <kind>U9</kind>
+        <date>20181115</date>
+      </document-id>
+      <document-id data-format="original">
+        <country>AT</country>
+        <doc-number>15951</doc-number>
+        <kind>U9</kind>
+        <date>20181115</date>
+      </document-id>
+      <document-id data-format="docdb" id="502968847">
+        <doc-number>15951</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT15951U</doc-number>
+      </document-id>
+    </publication-reference>
+    <application-reference>
+      <document-id>
+        <country>AT</country>
+        <doc-number>501182017</doc-number>
+        <kind>U</kind>
+        <date>20170613</date>
+      </document-id>
+      <document-id data-format="original">
+        <country>AT</country>
+        <doc-number>501182017</doc-number>
+        <kind>U</kind>
+        <date>20170613</date>
+      </document-id>
+      <document-id data-format="docdb" id="501651540">
+        <doc-number>501182017</doc-number>
+      </document-id>
+      <document-id data-format="epodoc">
+        <doc-number>AT20170050118U</doc-number>
+      </document-id>
+    </application-reference>
+    <language-of-publication>ger</language-of-publication>
+    <priority-claims>
+      <priority-claim sequence="1" generated="true" kind="national">
+        <country>AT</country>
+        <doc-number>501182017</doc-number>
+        <date>20170613</date>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="docdb">
+        <country>AT</country>
+        <doc-number>501182017</doc-number>
+        <date>20170613</date>
+        <priority-active-indicator>true</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="1" data-format="epodoc">
+        <doc-number>AT20170050118U</doc-number>
+      </priority-claim>
+    </priority-claims>
+    <classifications-ipcr date-changed="20200211">
+      <classification-ipcr sequence="1">
+        <text>C05D   9/02        20060101ALI20181112BHAT        </text>
+        <ipc-version-indicator>
+          <date>20060101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>C</section>
+        <class>05</class>
+        <subclass>D</subclass>
+        <main-group>9</main-group>
+        <subgroup>02</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20181112</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="2">
+        <text>C05G   3/60        20200101A I20191016RMAT        </text>
+        <ipc-version-indicator>
+          <date>20200101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>C</section>
+        <class>05</class>
+        <subclass>G</subclass>
+        <main-group>3</main-group>
+        <subgroup>60</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20191016</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+      <classification-ipcr sequence="3">
+        <text>C05G   3/90        20200101A I20191016RMAT        </text>
+        <ipc-version-indicator>
+          <date>20200101</date>
+        </ipc-version-indicator>
+        <classification-level>A</classification-level>
+        <section>C</section>
+        <class>05</class>
+        <subclass>G</subclass>
+        <main-group>3</main-group>
+        <subgroup>90</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20191016</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>M</classification-data-source>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classifications-cpc date-changed="20200211">
+      <classification-cpc sequence="1">
+        <text>C05D   9/02        20130101 LI20181116BHAT        </text>
+        <cpc-version-indicator>
+          <date>20130101</date>
+        </cpc-version-indicator>
+        <section>C</section>
+        <class>05</class>
+        <subclass>D</subclass>
+        <main-group>9</main-group>
+        <subgroup>02</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20181116</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpc>
+      <classification-cpc sequence="2">
+        <text>C05G   3/60        20200201 FI20200203RHAT        </text>
+        <cpc-version-indicator>
+          <date>20200201</date>
+        </cpc-version-indicator>
+        <section>C</section>
+        <class>05</class>
+        <subclass>G</subclass>
+        <main-group>3</main-group>
+        <subgroup>60</subgroup>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20200203</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpc>
+      <classification-cpc sequence="3">
+        <text>C05G   3/90        20200201 LI20200203RHAT        </text>
+        <cpc-version-indicator>
+          <date>20200201</date>
+        </cpc-version-indicator>
+        <section>C</section>
+        <class>05</class>
+        <subclass>G</subclass>
+        <main-group>3</main-group>
+        <subgroup>90</subgroup>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20200203</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>R</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpc>
+    </classifications-cpc>
+    <classifications-cpcno date-changed="20200211">
+      <classification-cpcno>
+        <text>C05G   3/02        20130101  I20181116BHAT        </text>
+        <cpc-version-indicator>
+          <date>20130101</date>
+        </cpc-version-indicator>
+        <section>C</section>
+        <class>05</class>
+        <subclass>G</subclass>
+        <main-group>3</main-group>
+        <subgroup>02</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20181116</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpcno>
+      <classification-cpcno>
+        <text>C05D   9/02        20130101  I20181116BHAT        </text>
+        <cpc-version-indicator>
+          <date>20130101</date>
+        </cpc-version-indicator>
+        <section>C</section>
+        <class>05</class>
+        <subclass>D</subclass>
+        <main-group>9</main-group>
+        <subgroup>02</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20181116</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpcno>
+      <classification-cpcno>
+        <text>C05G   3/08        20130101  I20181116BHAT        </text>
+        <cpc-version-indicator>
+          <date>20130101</date>
+        </cpc-version-indicator>
+        <section>C</section>
+        <class>05</class>
+        <subclass>G</subclass>
+        <main-group>3</main-group>
+        <subgroup>08</subgroup>
+        <classification-value>I</classification-value>
+        <action-date>
+          <date>20181116</date>
+        </action-date>
+        <generating-office>
+          <country>AT</country>
+        </generating-office>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+      </classification-cpcno>
+    </classifications-cpcno>
+    <number-of-claims calculated="yes">10</number-of-claims>
+    <invention-title id="title_ger" date-changed="20200116" lang="ger" format="original">Düngemittel</invention-title>
+    <invention-title id="title_eng" date-changed="20200116" lang="eng" format="machine translation">Fertilizer</invention-title>
+    <references-cited date-changed="20181129">
+      <patent-citations name="patcit" date-changed="20181129" />
+      <non-patent-citations name="nplcit" date-changed="20181129" />
+      <citation srep-phase="0">
+        <patcit num="1" dnum="DE10163079A1" dnum-type="publication number">
+          <document-id>
+            <country>DE</country>
+            <doc-number>10163079</doc-number>
+            <kind>A1</kind>
+            <name>BASF AG [DE]</name>
+            <date>20030703</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>DE</country>
+            <doc-number>10163079</doc-number>
+            <kind>A1</kind>
+            <date>20030703</date>
+          </document-id>
+          <application-date>
+            <date>20011220</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="2" dnum="CA2441175A1" dnum-type="publication number">
+          <document-id>
+            <country>CA</country>
+            <doc-number>2441175</doc-number>
+            <kind>A1</kind>
+            <name>MACCHIONI GIUSEPPE [DO], et al</name>
+            <date>20040317</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>CA</country>
+            <doc-number>2441175</doc-number>
+            <kind>A1</kind>
+            <date>20040317</date>
+          </document-id>
+          <application-date>
+            <date>20030917</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <patcit num="3" dnum="DE69521312T2" dnum-type="publication number">
+          <document-id>
+            <country>DE</country>
+            <doc-number>69521312</doc-number>
+            <kind>T2</kind>
+            <name>COGNIS CORP [US]</name>
+            <date>20020418</date>
+          </document-id>
+          <document-id data-format="original">
+            <country>DE</country>
+            <doc-number>69521312</doc-number>
+            <kind>T2</kind>
+            <date>20020418</date>
+          </document-id>
+          <application-date>
+            <date>19950413</date>
+          </application-date>
+        </patcit>
+      </citation>
+      <citation srep-phase="0">
+        <nplcit num="1">
+          <text>Google Abstract "Spower Produkte gültig ab: 01.06.2017 - Lagerhaus Eichinger
+01.06.2017 ZU link: www.agrar-profi.de/media/files/B_Produkt_Schnecke.pdf 
+[Download: 10.1.2018].</text>
+        </nplcit>
+      </citation>
+    </references-cited>
+    <parties date-changed="20181129">
+      <applicants>
+        <applicant sequence="1" app-type="applicant">
+          <addressbook lang="eng">
+            <orgname>LAGERHAUS EICHINGER GMBH &amp; CO KG</orgname>
+            <orgname-standardized type="corporate">LAGERHAUS EICHINGER</orgname-standardized>
+            <address>
+              <country>DE</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="1" app-type="applicant" data-format="docdb">
+          <addressbook lang="eng">
+            <orgname>LAGERHAUS EICHINGER GMBH &amp; CO KG</orgname>
+            <address>
+              <country>DE</country>
+            </address>
+          </addressbook>
+        </applicant>
+        <applicant sequence="1" app-type="applicant" data-format="docdba">
+          <addressbook lang="eng">
+            <orgname>Lagerhaus Eichinger GmbH &amp; Co.KG</orgname>
+            <address>
+              <country>DE</country>
+            </address>
+          </addressbook>
+        </applicant>
+      </applicants>
+    </parties>
+    <current-assignees>
+      <current-assignee sequence="1">
+        <addressbook lang="eng">
+          <orgname>LAGERHAUS EICHINGER GMBH &amp; CO KG</orgname>
+          <orgname-standardized>LAGERHAUS EICHINGER</orgname-standardized>
+          <address>
+            <country>DE</country>
+          </address>
+        </addressbook>
+      </current-assignee>
+    </current-assignees>
+    <patent-family date-changed="20181129">
+      <domestic-family family-id="93933042" earliest-date="20170214">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>519601</doc-number>
+            <kind>A1</kind>
+            <date>20180815</date>
+          </document-id>
+          <application-date>
+            <date>20170214</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U1</kind>
+            <date>20181015</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U9</kind>
+            <date>20181115</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+      </domestic-family>
+      <main-family family-id="284551112" earliest-date="20170613">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U1</kind>
+            <date>20181015</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U9</kind>
+            <date>20181115</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+      </main-family>
+      <complete-family family-id="284551111" earliest-date="20170613">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U1</kind>
+            <date>20181015</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U9</kind>
+            <date>20181115</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+      </complete-family>
+      <extended-family family-id="284551113" earliest-date="20170613">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U1</kind>
+            <date>20181015</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U9</kind>
+            <date>20181115</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+      </extended-family>
+      <simple-family family-id="63787566">
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U1</kind>
+            <date>20181015</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+        <family-member>
+          <document-id>
+            <country>AT</country>
+            <doc-number>15951</doc-number>
+            <kind>U9</kind>
+            <date>20181115</date>
+          </document-id>
+          <application-date>
+            <date>20170613</date>
+          </application-date>
+        </family-member>
+      </simple-family>
+    </patent-family>
+  </bibliographic-data>
+  <abstract id="abstr_ger" date-changed="20200116" lang="ger" format="original">
+    <p>Die Erfindung betrifft ein Düngemittel, umfassend Elementarschwefel und Schneckenköder.</p>
+  </abstract>
+  <abstract id="abstr_eng" date-changed="20200116" lang="eng" format="machine translation">
+    <p>The invention relates to a fertilizer, comprising elemental sulfur and snail bait.</p>
+  </abstract>
+  <legal-data date-changed="20210224">
+    <legal-event sequence="1">
+      <publication-date>
+        <date>20210215</date>
+      </publication-date>
+      <event-code-1>MM01</event-code-1>
+      <effect>-</effect>
+      <legal-description>LAPSE BECAUSE OF NOT PAYING ANNUAL FEES</legal-description>
+      <event-class code="H">IP RIGHT CESSATION</event-class>
+      <status-identifier>N</status-identifier>
+      <docdb-publication-number> AT       15951U1</docdb-publication-number>
+      <docdb-application-id>501651540</docdb-application-id>
+      <effective-date>
+        <date>20200630</date>
+      </effective-date>
+    </legal-event>
+  </legal-data>
+  <prime-notified-events date-changed="20210224">
+    <prime-notified-section name="Status">
+      <prime-notified-event name="Filed" sequence="1">
+        <event-date>
+          <date>20170613</date>
+        </event-date>
+        <event-details>
+          <detail>FILED</detail>
+          <detail-standardized>FILED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Granted" sequence="2">
+        <event-date>
+          <date>20181015</date>
+        </event-date>
+        <event-details>
+          <detail>GRANTED</detail>
+          <detail-standardized>GRANTED</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+      <prime-notified-event name="Ceased" sequence="3">
+        <event-date>
+          <date>20200630</date>
+        </event-date>
+        <event-details>
+          <detail>LAPSE BECAUSE OF NOT PAYING ANNUAL FEES</detail>
+          <detail-standardized>LAPSE BECAUSE OF NOT PAYING ANNUAL FEES</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+    <prime-notified-section name="Ownership">
+      <prime-notified-event name="Owner" sequence="1">
+        <event-date>
+          <date-from>20170613</date-from>
+        </event-date>
+        <event-details lang="eng">
+          <detail>LAGERHAUS EICHINGER GMBH &amp; CO KG</detail>
+          <detail-standardized>LAGERHAUS EICHINGER</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+    <prime-notified-section name="Fees">
+      <prime-notified-event name="Fee not paid" sequence="1">
+        <event-date>
+          <date>20200630</date>
+        </event-date>
+        <event-details>
+          <detail>LAPSE BECAUSE OF NOT PAYING ANNUAL FEES</detail>
+          <detail-standardized>LAPSE BECAUSE OF NOT PAYING ANNUAL FEES</detail-standardized>
+        </event-details>
+      </prime-notified-event>
+    </prime-notified-section>
+  </prime-notified-events>
+  <description id="descr_ger" lang="ger" format="ocr" date-changed="20181205">
+    <heading>
+      <b>Beschreibung</b>
+    </heading>
+    <p>[0001] Die Erfindung betrifft ein Düngemittel, welches Elementarschwefel enthält.</p>
+    <p>[0002] Schwefel ist in der heutigen Zeit als Luftschadstoff nahezu vollständig bedeutungslos geworden. Eine Pflanze benötigt zum Wachstum jedoch unter anderem auch Schwefel, welcher über die Umwelt nur zu einem zu geringen Anteil in die Ackerflächen eingetragen wird. Wenn der Pflanze jedoch nicht ausreichend Schwefel zur Verfügung steht, führt dies zu Mangelerscheinungen und Stoffwechselstörungen.</p>
+    <p>[0003] Schwefel gewinnt daher als über den Dünger beizugebendes Nährelement immer mehr an Bedeutung.</p>
+    <p>[0004] Aus DE 20 2015 105 252 U1 ist ein Düngemittel bekannt, das neben wasserlöslichem Schwefel auch Elementarschwefel aufweist. Auf diese Weise kann mit einer einzigen Düngung von Beginn bis zum Ende einer Vegetationsperiode pflanzenverwertbarer Schwefel bereitgestellt werden.</p>
+    <p>[0005] Der wasserlösliche Schwefel versorgt die Pflanze etwa bis zur Mitte der Vegetationsperiode mit Schwefel. Der wasserlösliche Schwefel kann sich nicht in der Bodenkrume halten und wird ausgewaschen.</p>
+    <p>[0006] Der Elementarschwefel stellt hingegen von etwa zwei Wochen nach Ausbringung bis zum Ende der Vegetationsperiode Schwefel bereit. Der Elementarschwefel versorgt somit die Pflanze mit Schwefel, auch wenn der ursprünglich im Düngemittel vorhandene wasserlösliche Schwefel verbraucht bzw. ausgewaschen ist. Ein erneutes Düngen mit wasserlöslichem Schwefel ist nicht erforderlich. Die Pflanze wird folglich über die gesamte Vegetationsperiode mit Schwefel versorgt, wobei ein einziges Düngen ausreichend ist.</p>
+    <p>[0007] Der Elementarschwefel kann zu wasserlöslichem Schwefel umgewandelt werden. Der Elementarschwefel spielt eine zentrale Rolle für Stoffwechselprozesse, insbesondere Energiestoffwechsel, einiger Bakterien. Schwefeloxidierende Bakterien oxidieren den Elementarschwefel zu Schwefelsulfat. Viele dieser Mikroorganismen können Elementarschwefel in Form von Kugeln intrazellulär und als Reserve für Perioden knapper Schwefelversorgung einlagern. Ist der Elementarschwefel zu wasserlöslichem Schwefel umgewandelt, so kann dieser wieder gut von der Pflanze aufgenommen und verwertet werden.</p>
+    <p>[0008] Der nicht-wasserlösliche Elementarschwefel bildet im Boden also zunächst einen Vorrat an Schwefel, welcher nicht ausgewaschen wird. Erst nach und nach wird der Elementarschwefel in den wasserlöslichen Schwefel umgewandelt und direkt von der Pflanze aufgenommen, sodass Auswaschungen zumindest im Wesentlichen unterbunden werden.</p>
+    <p>[0009] Schnecken können die Pflanzen angreifen, sobald diese auflaufen. Unter Auflaufen versteht man den Zeitpunkt, bei dem die Pflanzenkeimlinge entstehen und aus dem Boden wachsen.</p>
+    <p>[0010] Dieser Zeitpunkt ist besonders kritisch, da der Pflanzenkeimling sehr stark geschädigt werden kann, was schließlich zu beträchtlichen Ernteeinbußen führt. Beispielsweise können kleine Raps-Pflanzen von Schnecken befallen werden.</p>
+    <p>[0011] Es wird daher Schneckenköder auf das Feld ausgebracht. Dies geschieht bisher unabhängig von der Düngung des Feldes. Es sind daher zwei Arbeitsschritte notwendig, da das Feld einerseits gedüngt und andererseits der Schneckenköder ausgebracht werden muss.</p>
+    <p>[0012] Es ist daher eine Aufgabe der Erfindung, ein multifunktionales Düngemittel zu schaffen, mit dem Arbeitsschritte eingespart werden können.</p>
+    <p>[0013] Die Lösung dieser Aufgabe erfolgt durch ein Düngemittel mit den Merkmalen des Anspruchs 1.</p>
+    <p>[0014] Erfindungsgemäß umfasst das Düngemittel Elementarschwefel, also Schwefel mit der Oxidationsstufe Null (SO). Der Elementarschwefel ist insbesondere wasserunlöslich und wird somit nicht ausgewaschen.</p>
+    <p>[0015] Das Düngemittel kann einen Elementarschwefel-Dünger umfassen, der den Elementarschwefel aufweist. Der Korndurchmesser des Elementarschwefel-Düngers kann im Mittel zwischen etwa 2 mm und 4 mm liegen.</p>
+    <p>[0016] Der Elementarschwefel-Dünger kann ausschließlich aus Elementarschwefel bestehen oder weitere Zusätze umfassen.</p>
+    <p>[0017] Beispielsweise kann der Elementarschwefel-Dünger zwischen 85 % und 95 %, insbesondere 90 %, Elementarschwefel umfassen.</p>
+    <p>[0018] Ein granulierter Elementarschwefel-Dünger mit 90 % Elementarschwefel ist z.B. als Sulfogran ® 90 oder Wigor ® S im Markt bekannt. Die Elementarschwefel-Dünger unterscheiden sich beispielweise in der Mahlfeinheit bzw. der Verfügbarkeit für Mikroorganismen.</p>
+    <p>[0019] Zudem weist das Düngemittel einen Schneckenköder auf. Der Schneckenköder kann als Granulat, insbesondere Schneckenkorn, ausgebildet sein.</p>
+    <p>[0020] Neben Elementarschwefel und Schneckenköder kann das Düngemittel auch weitere Bestandteile aufweisen. Alternativ kann das Düngemittel auch lediglich aus Elementarschwefel und Schneckenköder bestehen.</p>
+    <p>[0021] Das Düngemittel ist multifunktional, da es einerseits zur Abwehr von Schnecken und andererseits als Dünger dient, der den Boden mit wichtigen Nährstoffen versorgt.</p>
+    <p>[0022] Das Düngemittel ist für den Ackerbau, insbesondere für Pflanzen wie Mais, Kartoffeln, Salat, Cruciferen wie z.B. Raps, Kohl oder dergleichen geeignet. Auch für Getreide ist das Düngemittel vorteilhaft, da der Schwefel die Kornzahl, also die Fruchtbarkeit, ebenso wie die Backqualität, z.B. gemessen am Sedimentationswert, günstig beeinflusst.</p>
+    <p>[0023] Mischungen, bei denen ein Dünger mit Sch necken köder versehen ist, sind bisher nicht bekannt, da sich vor allem die exakte Dosierung als aufwändig erweist. So sollte der Anteil an Schneckenköder aufgrund der vergleichsweise hohen Kosten einerseits möglichst gering gehalten werden. Andererseits muss der Anteil hoch genug sein, um einen spürbaren Schutz vor Schnecken zu gewährleisten.</p>
+    <p>[0024] Es war überraschend, dass mittels eines Dosiermischers ein wirkungsvolles Düngemittel gemischt werden kann, welches unter Vermeidung von unnötigen Kosten für überzähligen Schneckenköder einen optimalen Schutz vor Schnecken ermöglicht.</p>
+    <p>[0025] Da der Schneckenköder erfindungsgemäß zusammen mit dem Elementardünger ausgetragen wird, kann ein Arbeitsschritt eingespart werden. Durch die Zeitersparnis können Kosten reduziert werden.</p>
+    <p>[0026] Vorzugsweise wird das Düngemittel im Spätsommer bzw. Herbst, z.B. im August, ausgetragen.</p>
+    <p>[0027] Weiterbildungen der Erfindung sind auch den abhängigen Ansprüchen sowie der Beschreibung zu entnehmen.</p>
+    <p>[0028] Gemäß einer Ausführungsform beträgt der Anteil an Schneckenköder im Düngemittel zwischen 1 % und 6 %, insbesondere zwischen 3 % und 4 %, vorzugsweise 3,7 %. Ohne unnötig viel Schneckenköder einzusetzen, können die Pflanzen somit vor Schnecken geschützt werden.</p>
+    <p>[0029] Werden beispielsweise 150 kg Düngemittel pro Hektar ausgebracht, können darin rund 2 bis 8 kg, z.B. 5 kg, Schneckenköder enthalten sein.</p>
+    <p>[0030] Mittels eines Dosiermischers ist es möglich, exakt den gewünschten Anteil an Schneckenköder beizumischen.</p>
+    <p>[0031] Nach einer weiteren Ausführungsform umfasst der Schneckenköder Metaldehyd, Eisen-Ill-Phosphat und/oder Methiocarb.</p>
+    <p>[0032] Der Schneckenköder kann beispielsweise 2 bis 5 Gramm pro Kilogramm Metaldehyd aufweisen.</p>
+    <p>[0033] Ein Schneckenköder mit 3 g/kg Metaldehyd ist z.B. als Spiess-Urania ® G2 im Markt bekannt. Ein Schneckenköder mit 4 g/kg Metaldehyd ist als METAREX INOV ® verfügbar.</p>
+    <p>[0034] Ferner kann der Schneckenköder beispielsweise 5 bis 15 Gramm pro Kilogramm Eisenil I-Phosphat aufweisen. Ein Schneckenköder mit 9,9 g/kg ist auch als Ferramol ® bekannt. Ein Schneckenköder mit Eisen-Ill-Phosphat ist bio-geeignet und schont z.B. Regenwürmer, Igel und Bienen.</p>
+    <p>[0035] Ein Schneckenköder mit Methiocarb ist beispielsweise als Mesurol ® bekannt.</p>
+    <p>[0036] Gemäß einer weiteren Ausführungsform umfasst der Schneckenköder einen Sexuallockstoff. Der Schneckenköder wirkt dadurch besser, da die Schnecken stärker angelockt werden.</p>
+    <p>[0037] Beispielsweise ist in METAREX INOV ® ein Sexuallockstoff vorhanden.</p>
+    <p>[0038] Nach einer weiteren Ausführungsform umfasst das Düngemittel wasserlöslichen Schwefel, insbesondere Schwefelsulfat oder Schwefeltrioxid.</p>
+    <p>[0039] Wasserlöslicher Schwefel hat den Vorteil, dass der Schwefel in dieser Form gut von der Pflanze aufgenommen werden kann. Eine vorherige Umwandlung, z.B. durch Mikroorganismen, ist nicht notwendig. Der wasserlösliche Schwefel steht der Pflanze somit sofort nach dem Düngen zur Aufnahme zur Verfügung.</p>
+    <p>[0040] Gemäß einer weiteren Ausführungsform umfasst das Düngemittel einen Stickstoffdünger, einen Magnesium-Dünger, einen Phosphat-Dünger, einen Kali-Dünger und/oder einen Phosphat-Kali-Dünger.</p>
+    <p>[0041] Insbesondere kann erfindungsgemäß ein Stickstoff-Dünger, welcher auch N-Dünger genannt wird, mit einem Elementarschwefel-Dünger und einem Schneckenköder kombiniert werden. Ein Stickstoff-Dünger ist jedoch nicht zwingend erforderlich. So kann der Stickstoff beispielsweise auch über Gülle zugeführt werden.</p>
+    <p>[0042] Da Schwefel ebenso wie Stickstoff einen zentralen Baustein in Proteinen darstellt und auch für die Nitratreduktase in der Pflanze verantwortlich ist, kann der Stickstoff bei einem Schwefelmangel von der Pflanze nicht mehr verwertet werden. Um also eine effiziente Stickstoffdüngung sicherstellen zu können, ist es vorteilhalft, diese mit einer bedarfsgerechten Schwefeldüngung zu verbinden.</p>
+    <p>[0043] Der Stickstoff-Dünger kann lediglich Stickstoff oder auch Zusätze umfassen. Der Korndurchmesser des Stickstoff-Düngers kann im Mittel zwischen etwa 2 mm und 4 mm liegen.</p>
+    <p>[0044] Vorzugsweise weist der Stickstoff-Dünger wasserlöslichen Schwefel auf. Durch eine Kombination eines derartigen Stickstoff-Düngers mit einem Elementarschwefel-Dünger können sowohl wasserlöslicher Schwefel als auch der Elementarschwefel bereitgestellt werden.</p>
+    <p>[0045] Gemäß einer weiteren Ausführungsform umfasst der Stickstoff-Dünger schwefelsaures Ammoniak (SSA) bzw. er besteht daraus. Im schwefelsauren Ammoniak ist Ammoniumstickstoff enthalten, welcher z.B. im Vergleich zu Nitratstickstoff einer geringeren Auswaschung unterliegt. Das erfindungsgemäße Düngemittel kann somit schwefelsaures Ammoniak, Elementarschwefel und Schneckenköder umfassen oder daraus bestehen.</p>
+    <p>[0046] Nach einer weiteren Ausführungsform umfasst das schwefelsaure Ammoniak zwischen 19 % und 23 %, insbesondere 21 %, Ammoniumstickstoff und zwischen 22 % und 26 %, insbesondere 24 %, wasserlöslichen Schwefel. Dies sind typische Werte für schwefelsauren Ammoniak.</p>
+    <p>[0047] Gemäß einer weiteren Ausführungsform umfasst der Stickstoff-Dünger Ammoniumsulfat-Harnstoff bzw. er besteht daraus. Dies führt zu einer guten Düngewirkung und erhöht den Ertrag. Das erfindungsgemäße Düngemittel kann somit Ammoniumsulfat-Harnstoff, Elementarschwefel und Schneckenköder umfassen oder daraus bestehen.</p>
+    <p>[0048] Vorzugsweise umfasst der Ammoniumsulfat-Harnstoff zwischen 31 % und 35 %, insbesondere 33 %, Gesamtstickstoff und zwischen 10 % und 14 %, insbesondere 12 %, wasserlöslichen Schwefel.</p>
+    <p>[0049] Der Ammoniumsulfat-Harnstoff kann zwischen 20 % und 24 %, insbesondere 22,6 %, Carbamidstickstoff und zwischen 8 % und 12 %, insbesondere 10,4 %, Ammoniumstickstoff umfassen. Eine Zusammensetzung aus 22,6 % Carbamidstickstoff und 10,4 % Ammoniumstickstoff ergibt hierbei die 33 % Gesamtstickstoff. Ein derartiger Ammoniumsulfat-Harnstoff mit 12 % wasserlöslichem Schwefel ist auch als Piammon ® bekannt.</p>
+    <p>[0050] Alternativ oder zusätzlich zu einem Stickstoff-Dünger kann das Düngemittel auch einen Magnesium-Dünger umfassen. Der Magnesium-Dünger kann ausschließlic Magnesium umfassen oder Zusätze aufweisen.</p>
+    <p>[0051] Insbesondere weist der Magnesium-Dünger wasserlöslichen Schwefel auf. Durch eine Kombination eines derartigen Magnesium-Düngers mit einem Elementarschwefel-Dünger können somit sowohl wasserlöslicher Schwefel als auch der Elementarschwefel bereitgestellt werden.</p>
+    <p>[0052] Gemäß einer weiteren Ausführungsform umfasst der Magnesium-Dünger zwischen 15 % und 30 %, insbesondere 25 %, Magnesiumoxid und zwischen 10 % und 25 %, insbesondere 20 %, wasserlöslichen Schwefel. Ein derartiger Magnesi um-Dünger mit 25 % wasserlöslichem Magnesiumoxid und 20 % wasserlöslichem Schwefel ist auch als Kieserit bekannt. Kieserit ist bio-geeignet.</p>
+    <p>[0053] Der Anteil an Kieserit im Düngemittel kann zwischen 10 % und 30 %, insbesondere zwischen 15 % und 25 %, vorzugsweise 20 %, betragen.</p>
+    <p>[0054] Alternativ oder zusätzlich zu einem Stickstoff-Dünger oder Magnesium-Dünger kann das Düngemittel auch einen Phosphat-Dünger umfassen. Der Phosphat-Dünger kann ausschließlich Phosphat umfassen oder Zusätze aufweisen.</p>
+    <p>[0055] Phosphat nimmt eine zentrale Rolle beim Stoffwechsel von Pflanzen ein.</p>
+    <p>[0056] Der Phosphat-Dünger kann wasserlöslichen Schwefel aufweisen. Durch eine Kombination eines derartigen Phosphat-Düngers mit einem Elementarschwefel-Dünger können somit sowohl wasserlöslicher Schwefel als auch der Elementarschwefel bereitgestellt werden.</p>
+    <p>[0057] Nach einer weiteren Ausführungsform umfasst der Phosphat-Dünger zwischen 3 % und 15 %, insbesondere 9 %, wasserlöslichen Schwefel.</p>
+    <p>[0058] Alternativ oder zusätzlich zu einem Stickstoff-Dünger, Magnesium-Dünger oder Phosphat-Dünger kann das Düngemittel auch einen Kali-Dünger umfassen. Der Kali-Dünger kann ausschließlich Kalium umfassen oder Zusätze aufweisen.</p>
+    <p>[0059] Insbesondere weist der Kali-Dünger wasserlöslichen Schwefel auf. Durch eine Kombination eines derartigen Kali-Düngers mit einem Elementarschwefel-Dünger können somit sowohl wasserlöslicher Schwefel als auch der Elementarschwefel bereitgestellt werden.</p>
+    <p>[0060] Gemäß einer weiteren Ausführungsform umfasst der Kali-Dünger zwischen 3 % und 25%, insbesondere zwischen 10 % und 20 %, vorzugsweise 12,5 % oder 17 %, wasserlöslichen Schwefel.</p>
+    <p>[0061] Ein Kali-Dünger mit 40 % Kaliumoxid und 12,5 % Schwefeltrioxid bzw. 4 % wasserlöslichem Schwefel ist auch als Korn-Kali ® bekannt.</p>
+    <p>[0062] Auch kann ein Kali-Dünger beispielsweise 50 % Kalium und 17 % Sulfat aufweisen.</p>
+    <p>[0063] Alternativ oder zusätzlich zu einem Stickstoff-Dünger, Magnesium-Dünger, Phosphat-Dünger oder Kali-Dünger kann das Düngemittel auch einen Phosphat-Kali-Dünger umfassen.</p>
+    <p>[0064] Insbesondere weist der Phosphat-Kali-Dünger wasserlöslichen Schwefel auf.</p>
+    <p>[0065] Durch eine Kombination eines derartigen Phosphat-Kali-Düngers mit einem Elementarschwefel-Dünger können somit sowohl wasserlöslicher Schwefel als auch der Elementarschwefel bereitgestellt werden.</p>
+    <p>[0066] Gemäß einer weiteren Ausführungsform umfasst der Phosphat-Kali-Dünger zwischen 3 % und 7 % wasserlöslichen Schwefel. Insbesondere kann der Phosphat-Kali-Dünger einen Anteil zwischen 5 % und 15 % mineralsäurelöslichem Phosphat aufweisen. Der Anteil an Kaliumoxid kann zwischen 20 % und 40 % liegen.</p>
+    <p>[0067] Nach einer weiteren Ausführungsform umfasst das Düngemittel Bentonit. Das Bentonit kann beispielsweise in einem Elementarschwefel-Dünger, welcher den Elementarschwefel umfasst, enthalten sein. Der Anteil an Bentonit im Elementarschwefel-Dünger kann zwischen 5 % und 15 %, insbesondere 10 %, betragen.</p>
+    <p>[0068] Bentonit bildet z.B. Ton-Humus-Komplexe, welche das Bodengefüge stabilisieren und die Bodenfruchtbarkeit erhöhen.</p>
+    <p>[0069] Ein granulierter Elementarschwefel-Dünger mit 90 % Elementarschwefel und 10 % Bentonit ist z.B. als Schwedokal ® 90 bekannt. Schwedokal ® 90 ist bio-geeignet.</p>
+    <p>[0070] Der Anteil an Schwedokal ® 90 im Düngemittel kann zwischen 10 % und 20 %, insbesondere 14,5 % betragen.</p>
+    <p>[0071] Gemäß einer weiteren Ausführungsform umfasst das Düngemittel einen Harnstoff-Dünger mit Nitrifikationshemmstoff.</p>
+    <p>[0072] Der Korndurchmesser des Harnstoff-Düngers kann im Mittel zwischen etwa 2 mm und 4 mm liegen. Insbesondere können erfindungsgemäß somit ein Stickstoff-, Magnesium-, Phosphat-, Kali- und/oder Phosphat-Kali-Dünger mit einem Elementarschwefel-Dünger und einem Schneckenköder sowie einem Harnstoff-Dünger mit Nitrifikationshemmstoff kombiniert werden. So kann die Pflanze durch ein einmaliges Düngen mit wichtigen Nährstoffen versorgt und zudem vor Schnecken geschützt werden.</p>
+    <p>[0073] Ebenso wie wasserlöslicher Schwefel kann sich auch Nitratstickstoff nicht in der Bodenkrume halten und wird ausgewaschen.</p>
+    <p>[0074] Mit dem Harnstoff-Dünger mit Nitrifikationshemmstoff lassen sich die Vorteile der Ammoniumform hingegen voll nutzen. Der Harnstoff wird in kurzer Zeit nach Ausbringung und Erreichen einer bestimmten Bodentemperatur in Ammoniumstickstoff umgewandelt. Der Ammoniumstickstoff wird stabilisiert und dessen mikrobielle Umwandlung zu Nitrat deutlich verzögert. Auf diese Weise wird ein vor Verlagerung geschützter Vorrat an Ammonium im Boden angelegt. Da Pflanzen Ammonium ebenso gut wie Nitrat aufnehmen können, kommt es zu einer vom Pflanzenwachstum bedarfsgerecht gesteuerten ammoniumbetonten Ernährung. Höhere Mengen an Stickstoff können so beim Düngen ohne Gefahr von Luxuskonsum ausgebracht werden. Ein mehrmaliges Düngen ist nicht erforderlich.</p>
+    <p>[0075] Die Düngung wird zudem vereinfacht und kann variabler gestaltet werden, zumal stabilisierter Stickstoff sicher und unabhängig vom Wetter wirkt. Auch bei hohen Niederschlägen nach der Düngung ist dieser somit vor Auswaschungen geschützt.</p>
+    <p>[0076] Eine Kombination eines Stickstoff-Düngers mit einem Elementarschwefel-Dünger und einem Schneckenköder sowie einem Harnstoff-Dünger mit Nitrifikationshemmstoff ermöglicht somit ein Bereitstellen von stabilisiertem Stickstoff und eine stetige Schwefelzufuhr während einer vollständigen Vegetationsperiode. Ein mehrmaliges Düngen entfällt. Die Pflanze kann ab Vegetationsbeginn bis z.B. zur Kornreife im Mais oder Raps bzw. bis zum Ährenschieben im Getreide mit Stickstoff, Schwefel und Schneckenköder versorgt werden.</p>
+    <p>[0077] Gemäß einer weiteren Ausführungsform umfasst der Harnstoff-Dünger 46 % CarbamidStickstoff. Ein derartiger Harnstoff-Dünger mit Nitrifikationshemmstoff ist auch als Alzon ® 46 bekannt.</p>
+    <p>[0078] Insbesondere kann der Anteil an Harnstoff-Dünger mit Nitrifikationshemmstoff - falls überhaupt vorhanden - im Düngemittel zwischen 40 % und 60 %, vorzugsweise 56,7 %, betragen.</p>
+    <p>[0079] Der Nitrifikationshemmstoff kann Dicyandiamid, Triazol, insbesondere 1,2,3 Triazol oder 1,2,4 Triazol, Allylthioharnstoff und/oder Nitrapyrin umfassen bzw. daraus bestehen. Insbesondere kann der Nitrifikationshemmstoff als Gemisch aus Dicyandiamid und 1Η-1,2,4 Triazol ausgebildet sein.</p>
+    <p>[0080] Diese Nitrifikationshemmstoffe weisen gute Hemmeigenschaften auf.</p>
+    <p>[0081] Nach einer weiteren Ausführungsform umfasst das Düngemittel einen Kalkstickstoff-Dünger. Kalkstickstoff wird auch Calciumcyanamid (CaCN2) genannt. Hierbei handelt es sich um einen stabilisierten Dünger. Der Kalkstickstoff-Dünger kann Nitratstickstoff, Cyanamidstickstoff, Dicyandiamidstickstoff und/oder Kalk umfassen oder daraus bestehen.</p>
+    <p>[0082] Insbesondere enthält der Kalkstickstoff-Dünger zwischen 15 % und 25 %, vorzugsweise 19,8 %, Stickstoff. Davon kann der Anteil an Nitratstickstoff zwischen 1 % und 3 %, vorzugsweise 1,8 % betragen. Der Anteil an Cyanamidstickstoff kann mindestens 10 %, vorzugsweise mindestens 15 %, betragen, während der Anteil an Dicyandiamidstickstoff bei etwa 0,5 % liegen kann. Der Kalkgehalt (CaO) kann mindestens 40 %, vorzugsweise mindestens 50 %, betragen.</p>
+    <p>[0083] Ein Kalkstickstoff-Dünger mit einem Stickstoffanteil von 19,8 % und einem Kalkgehalt von mindestens 50 % ist auch als PERLKA ® am Markt bekannt.</p>
+    <p>[0084] Der Kalkstickstoff-Dünger kann als Granulat vorliegen. Der Korndurchmesser kann im Mittel zwischen etwa 0,8 und 3,5 mm liegen. Ferner ist dieser umweltverträglich und kann für verschiedene Zwecke eingesetzt werden.</p>
+    <p>[0085] Pflanzen werden mit Stickstoff versorgt, während dem Boden Kalk zugeführt wird. Durch das Calciumcyanamid wird die mikrobiologische Aktivität im Boden erhöht.</p>
+    <p>[0086] So kann als stabilisierender Stickstoff neben bzw. zusätzlich zu Alzon ® auch beispielsweise Perlka ® verwendet werden.</p>
+    <p>[0087] Gemäß einer weiteren Ausführungsform umfasst das Düngemittel einen Mikronährstoff-Dünger, insbesondere wobei der Anteil des Mikronährstoff-Düngers im Düngemittel - falls überhaupt vorhanden - zwischen 1 % und 8 %, insbesondere zwischen 4,5 % und 5,5 %, vorzugsweise 5,1 %, beträgt.</p>
+    <p>[0088] Mikronährstoffe werden von Pflanzen zwar nur in geringen Mengen benötigt. Jedoch sind diese beispielsweise für die Funktion und den Aufbau von Fermenten sowie Enzymen wichtig. Unterschiedliche Mikronährstoffe sollten daher für die Pflanzen zur Verfügung stehen.</p>
+    <p>[0089] Trockenheit sowie der pH-Wert können die Aufnahme von pflanzenverfügbaren Mikronährstoffen aus dem Boden beeinträchtigen. Bei hohen pH-Werten sind beispielsweise Mangan, Bor, Zink und Kupfer schlecht verfügbar, während Molybdän bei niedrigen pH-Werten nur unzureichend von der Pflanze aufgenommen werden kann.</p>
+    <p>[0090] Bisher wurden Mikronährstoffe vor allem in flüssiger Form auf das Feld gespritzt.</p>
+    <p>[0091] Erfindungsgemäß können die Mikronährstoffe einen Teil des Düngemittels bilden und zusammen mit anderen Düngerbestandteilen auf das Feld ausgetragen werden.</p>
+    <p>[0092] Auf diese Weise kann ein zusätzlicher Arbeitsschritt eingespart werden, wodurch Kosten reduziert werden.</p>
+    <p>[0093] Der Mikronährstoff-Dünger kann als Granulat vorliegen und lässt sich somit gut mit anderen Bestandteilen des Düngemittels mischen.</p>
+    <p>[0094] Gemäß einer weiteren Ausführungsform umfasst der Mikronährstoff-Dünger Bor, Zink, Mangan, Selen, Kobalt, Molybdän, Kupfer und/oder Eisen. Ferner können Magnesium, Calcium, Natrium und/oder Schwefel enthalten sein. Die Pflanze kann dadurch ausreichend mit einem oder mehreren unterschiedlichen Mikronährstoff/en versorgt werden.</p>
+    <p>[0095] Bei einem Mangel an Bor bleibt die Pflanze beispielsweise in der Entwicklung stehen und wächst nur langsam. Bor kann beispielsweise bei Düngemitteln für Gemüse, z.B. Kartoffeln, Raps, Mais und/oder Soja zugesetzt werden.</p>
+    <p>[0096] Zink und Kupfer beeinflussen die Vitalität und Standfestigkeit einer Pflanze positiv. Zink ist für das Pflanzenwachstum sowie für verschiedene Stoffwechselprozesse unentbehrlich. Auch ist Zink wichtig für die Fruchtbarkeit, Abwehrkräfte und die Verdauung von mit den Pflanzen gefütterten Tieren.</p>
+    <p>[0097] Kupfer ist wichtig für die Blut- und Knochenbildung von mit den Pflanzen gefütterten Tieren.</p>
+    <p>[0098] Mangan unterstützt die Pflanze bei der Photosynthese und fördert die Wurzelentwicklung.</p>
+    <p>[0099] Ein Mangel an Selen kann bei Menschen und Tieren zu Erkrankungen führen, beispielsweise zu Arrhythmien, Herzversagen, Lungenödemen, Fruchtbarkeitsproblemen und/oder Schilddrüsenentzündungen. Selen wird vom Menschen vorwiegend über tierische Nahrungsmittel aufgenommen, da pflanzliche Nahrungsmittel vergleichsweise wenig Selen aufweisen. Durch eine Düngung mit Selen kann auch dessen Anteil in pflanzlichen Nahrungsmitteln deutlich erhöht werden.</p>
+    <p>[00100] Selen kann auch bei Düngemitteln für Wiesen und Weiden eingesetzt werden, um die damit gefütterten Tiere, z.B. Rinder und/oder Pferde, mit Selen zu versorgen.</p>
+    <p>[00101] Selen ist auch bio-geeignet.</p>
+    <p>[00102] Kobalt ist ein wichtiger Bestandteil des Vitamins B12 und von Enzymen. Ein Mangel führt zu Fortpflanzungsstörungen von mit den Pflanzen gefütterten Tieren.</p>
+    <p>[00103] Molybdän ist für verschiedene Stoffwechselfunktionen sowie die Stickstoffverwertung der Pflanze wichtig.</p>
+    <p>[00104] Am Markt ist beispielsweise EXCELLO ® 331 bekannt. Dieser Mikronährstoff-Dünger umfasst 3,0 % Mangan, 3,0 % Zink, 1,0 % Bor, 11,8 % Magnesiumoxid, 29,3 % Calciumoxid, 0,005 % wasserlösliches Molybdän sowie 0,003 % Kobalt.</p>
+    <p>[00105] Zudem ist am Markt z.B. Excello ® Weide bekannt. Dieser Mikronährstoff-Dünger umfasst 2,0 % Eisen, 1,5 % Zink, 1,0 % Mangan, 0,5 % Kupfer, 15,0 % Natriumchlorid, 3,0 % Schwefel, 0,003 % Kobalt, 0,006 % Selen, 7,9 % Magnesiumoxid sowie 25,0 % Calciumoxid.</p>
+    <p>[00106] Daneben sind von ICL Fertilizers beispielsweise Granuläre N und P (GNP) Dünger bekannt. Beispielsweise kann dieser Mikronährstoffdünger eine Zusammensetzung von 11,5 % Stickstoff, 2,5 % Phosphor und 2,2 % Bor aufweisen. Auch ein höherer Anteil an Phosphor von z.B. 5,5 % ist möglich.</p>
+    <p>[00107] Zusätzlich kann auch Schwefel, beispielsweise mit einem Anteil von 15 %, vorgesehen sein. Damit ergibt sich ein Mikronährstoffdünger mit 11,5 % Stickstoff, 5,5 % Phosphor, 15 % Schwefel und 2,2 % Bor.</p>
+    <p>[00108] Nach einer weiteren Ausführungsform weist das Düngemittel Meerkalk, insbesondere Korallen-, Algen- und/oder Muschelkalk, auf. Die Kreide, aus der der Meerkalk gewonnen wird, kann beispielsweise aus Ablagerungen von Kalkalgen entstanden sein.</p>
+    <p>[00109] Meerkalk ist deutlich reaktiver als beispielsweise Stein- oder Branntkalk, welche vor dem Ausbringen gemahlen werden müssen, um überhaupt von Mikroorganismen aufgenommen werden zu können. Dadurch ist Meerkalk auch ohne Zerkleinerung schneller wirksam. Auch die Aufnahme von anderen Nährstoffen wird durch Meerkalk verbessert. Zudem ist Meerkalk bio-geeignet.</p>
+    <p>[00110] Meerkalk liegt vorzugsweise in gekörnter Form vor und kann somit gut mit anderen Bestandteilen des Düngemittels gemischt werden.</p>
+    <p>[00111] Das Düngemittel kann einen Meerkalk-Dünger umfassen, der den Meerkalk aufweist. Der Meerkalk-Dünger kann ausschließlich aus Meerkalk bestehen oder weitere Zusätze, beispielsweise Elementarschwefel, Calciumcarbonat und/oder Magnesiumcarbonat, umfassen. So kann der Meerkalk-Dünger beispielsweise 82 % Calciumcarbonat (CaC03), 1,3 % Magnesiumcarbonat (MgC03) und 9 % Elementarschwefel umfassen.</p>
+    <p>[00112] Auch eine Zusammensetzung mit 92 % Calciumcarbonat und 1,5 % Magnesiumcarbonat ist denkbar.</p>
+    <p>[00113] Alternativ kann der Meerkalk-Dünger beispielsweise zwischen 0,1 % und 2 %, vorzugsweise 0,6 %, Magnesium und zwischen 40 % und 60 %, vorzugweise 52 %, Calciumoxid aufweisen.</p>
+    <p>[00114] Gemäß einer weiteren Ausführungsform weist das Düngemittel Rohphosphat auf. Rohphosphat ist bio-geeignet. Das Rohphosphat ist insbesondere weicherdig und kann mineralsäurelösliches Phosphorpentoxid (P205) umfassen.</p>
+    <p>[00115] Das Düngemittel kann einen Rohphosphat-Dünger umfassen, der das Rohphosphat aufweist. Der Rohphosphat-Dünger kann ausschließlich aus Rohphosphat bestehen oder weitere Zusätze, beispielsweise Calcium, insbesondere CaC03, Magnesium, insbesondere MgO, Aminopurine und/oder Selen, umfassen.</p>
+    <p>[00116] So kann der Rohphosphat-Dünger beispielsweise 26 % Phosphat, 1,2 % Magnesium, 40 % Calciumoxid und 0,5 % Natrium aufweisen. Dies ist auch als Hyperkorn P26 am Markt bekannt.</p>
+    <p>[00117] Als Naturphosphat P26 ist auch ein Rohphosphat-Dünger mit 26 % mineralsäurelöslichem Phosphorpentoxid (P205) bekannt.</p>
+    <p>[00118] Als Litho Physalg ® G18 ist ferner ein Rohphosphat-Dünger mit P205, CaC03, MgO und Aminopurine bekannt.</p>
+    <p>[00119] Zudem ist als DOLOPHOS ® 26 ein Rohphosphat-Dünger mit 26 % P205, 40 % CaO und 2 % MgO bekannt.</p>
+    <p>[00120] DOLOPHOS ® 15 enthält beispielswiese 15 % weicherdiges Rohphosphat (P205), 65 % Calciumcarbonat (CaC03) sowie 15 % Magnesiumcarbonat (MgC03).</p>
+    <p>[00121] Die Erfindung wird im Folgenden anhand eines möglichen Düngemittels beispielhaft beschrieben.</p>
+    <p>[00122] So kann das Düngemittel beispielsweise Alzon ® 46, Kieserit, Schwedokal ® 90, Excello ® 331 und METAREX INOV ® enthalten. Die jeweiligen Anteile können grundsätzlich beliebig gewählt werden. Anstelle von Excello ® 331 kann beispielsweise auch ein GNP-Dünger verwendet werden.</p>
+    <p>[00123] Insbesondere kann das Düngemittel 56,7 % Alzon ® 46, 20 % Kieserit, 14,5 % Schwedokal ® 90, 5,1 % Excello ® 331 und 3,7 % METAREX INOV ® enthalten. Wird ein GNP-Dünger anstelle von Excello ® 331 eingesetzt, kann der Anteil entsprechend geringer gewählt werden, da der GNP-Dünger einen höheren Anteil an Bor aufweist als Excello ® 331.</p>
+    <p>[00124] Sämtliche Bestandteile des Düngemittels können als Granulat vorliegen. Verschiedenste Dünger lassen sich somit gut zu einem neuen Düngemittel mischen. Um die Anteile der einzelnen Dünger am Düngemittel möglichst exakt zu mischen, kann ein Dosiermischer verwendet werden.</p>
+    <p>[00125] Die angegebenen %-Angaben betreffen jeweils die Gewichts%.</p>
+  </description>
+  <description id="descr_eng" lang="eng" format="machine translation" date-changed="20181205">
+    <heading>
+      <b>Description</b>
+    </heading>
+    <p>[0001] The invention relates to a fertilizer, which elementary sulfur.</p>
+    <p>[0002] Sulfur in today's time as air pollutant become almost completely meaningless. A plant including sulfur, which only to a small portion of registered on the environment to the arable land is required but growth. If the plant is not available sufficient sulfur, this leads to deficiency symptoms and metabolic disorders.</p>
+    <p>[0003] Therefore the one which can be added on the fertilizer nutrient element always recovered sulfur as more important.</p>
+    <p>[0004] Is known from DE 20 2015, 105, 252 u1 a fertilizer, the secondary water-soluble sulfur also comprises elemental sulfur. In this way can be utilized with a single sulfur plants start to the end of a growing period fertilization of are provided.</p>
+    <p>[0005] The water-soluble sulfur supplies the plant up to approximately center of the growing period with sulfur. The water-soluble sulfur is washed out and not be able to survive in the crumb bottom.</p>
+    <p>[0006] Of the elementary sulfur is from about two weeks after application however until the end of the growing season to sulfur. The elementary sulfur thus supplied the plant with sulfur, even if the water-soluble sulfur present in the fertilizer is consumed or washed out originally. A fertilizing with water-soluble sulfur is not required again. The plant is therefore supplied over the entire growing season with sulfur, wherein a single fertilizing is sufficient.</p>
+    <p>[0007] Of the elementary sulfur can be converted to water-soluble sulfur. The elementary sulfur plays a central role in metabolic processes, in particular energy metabolism, some bacteria. Sulfur oxidizing bacteria oxidizing the elemental sulfur to sulfur sulfate. Many of these microorganisms elemental sulfur in the form of balls and placing intracellularly can reserve for periods as scarce sulfur supply. The elemental sulfur is converted to water-soluble sulfur, they cannot then be well received by the plant and used again.</p>
+    <p>[0008] The non-water-soluble elemental sulfur in the ground therefore forms a supply of first sulfur, which is not washed out. After the elemental sulfur is converted to sulfur and water-soluble and received directly from the plant, so that leaching at least substantially be stopped.</p>
+    <p>[0009] Screw can engage the plants, once these running. Under running is understood to be the time, wherein the seedlings emerge from the ground and waxes.</p>
+    <p>[0010] This time is particularly critical, since the plants can be damaged very much germ, which finally leads to considerable loss of harvest. For example rape plants can be affected by the small screw.</p>
+    <p>[0011] It is therefore screw bait on the applied field. This happens independently of the fertilization of the field so far. There are two steps are therefore necessary, on the one hand and on the other hand since the bait must be applied field fertilized.</p>
+    <p>[0012] It is therefore a task of the invention, a multifunctional fertilizer to create, with the steps can be saved.</p>
+    <p>[0013] The solution of this task is performed by a fertilizer having the features of claim 1.</p>
+    <p>[0014] According to the invention comprises the fertilizer elemental sulfur, sulfur so zero oxidation (such). The elemental sulfur is water-insoluble and in particular is thus not washed out.</p>
+    <p>[0015] The fertilizer can comprise a elementary sulfur fertilizer, has the elemental sulfur. The grain diameter of the elementary sulfur fertilizer between about 2 mm and 4 mm may be in the means.</p>
+    <p>[0016] Of the elementary sulfur fertilizer can consist exclusively from elemental sulfur or further additives.</p>
+    <p>[0017] Between 85% and 95% of the elementary sulfur fertilizer for example can, in particular 90%, comprise elemental sulfur.</p>
+    <p>[0018]Agranulated elementary sulfur fertilizer with 90% elemental sulfur is e.g. 90 s in the market known as the Gran® Wigor® or sulpho. The elementary sulfur fertilizer differ in the grinding fineness for example or the availability for microorganisms.</p>
+    <p>[0019] The fertilizer has also a worm on bait. The screw bait can be designed as a granulate, in particular screw grain, .</p>
+    <p>[0020] Adjacent elementary sulfur and snail bait can also have the fertilizer further constituents. Alternatively the fertilizer can also consist of elementary sulfur and snail bait only.</p>
+    <p>[0021] The fertilizer is multifunctional, since on the one hand and on the other hand serves as fertilizer for repelling of screw it, the bottom with important nutrients supplied.</p>
+    <p>[0022] The fertilizer is for crop, especially for plants such as corn, potatoes, salad, such as rapeseed Cruciferen, cabbage or the like suitable. The fertilizer for cereals is also advantageous, since the sulfur the grain number, i.e. the fertility, as well as the baking quality, e.g. measured at the sedimentation value, influenced favorably.</p>
+    <p>[0023] Mixtures, wherein a threshold is provided with fertilizer taunt bait, are not yet known, since the exact dosage as proves particularly expensive. Due to the comparatively high costs should the proportion of snail bait on the one hand are minimised. On the other hand the proportion must be sufficiently high, a significant protection to ensure screw.</p>
+    <p>[0024] It was surprising, that an effective fertilizer can be mixed by means of a metering mixer, avoiding unnecessary costs for which an optimum protection against screw allows supernumerary snail bait.</p>
+    <p>[0025] As the snail bait invention is discharged together with the elementary fertilizer, can be saved a step. By the time saving costs can be reduced.</p>
+    <p>[0026] In the late summer or autumn the fertilizer is preferably, for example in the august, discharged.</p>
+    <p>[0027] The dependent claims and the description also refinements of the invention are shown.</p>
+    <p>[0028] According to one embodiment the proportion of 1% and 6% between bait in the fertilizer, in particular between 3% and 4%, preferably 3.7%. Without unnecessary amounts to bait, the plant can thus be protected before screw.</p>
+    <p>[0029] 150 Kg per hectare for example fertilizer, can round therein 2 to 8 kg of, e.g. 5 kg, screw bait be included.</p>
+    <p>[0030] It is possible by means of a metering mixer, exactly the desired proportion of snail bait admixing.</p>
+    <p>[0031] According to another embodiment comprises the screw bait metaldehyde, Methiocarb and/or iron-III-phosphate.</p>
+    <p>[0032] The screw bait can for example 2 to 5 grams per kilogram of metaldehyde have.</p>
+    <p>[0033] With 3 grams/kg of metaldehyde is e.g. a screw bait as spit by Urania® g2 known in the market. 4 G of bait with a screw/kg of metaldehyde METAREXINOV® is available.</p>
+    <p>[0034] The screw bait can also for example 5 to 15 grams per kilogram ice-nil have I phosphate. 9.9 G of bait with a screw is also known as Ferramol® / kg of. A screw bait with iron-III-phosphate is bio suitable spares and e.g. earthworms, hedgehog and bees.</p>
+    <p>[0035] Is known for example as a screw bait with MethiocarbMesurol®.</p>
+    <p>[0036] According to another embodiment of the screw comprises a sex attractant bait. The screw bait acts this is better, because the screw more are attracted.</p>
+    <p>[0037] For example is a sex attractant METAREXINOV® present.</p>
+    <p>[0038] According to another embodiment comprises water-soluble fertilizer sulfur, particularly sulfur sulfate or sulfur trioxide.</p>
+    <p>[0039] Water-soluble sulfur has the advantage, that the sulfur in this form of the plant can be received well. A previous conversion, e.g. by microorganisms, is not necessary. The water-soluble sulfur thus immediately after the plant fertilizing available for receiving.</p>
+    <p>[0040] According to a further embodiment comprises a nitrogen fertilizer fertilizer, a magnesium fertilizer, a phosphate fertilizer, a potassium fertilizer and/or a phosphate potassium fertilizer.</p>
+    <p>[0041] According to the invention can in particular a nitrogen fertilizer, which also called n fertilizer, with a sulfur-bearing fertilizer and a screw bait are combined. A nitrogen fertilizer is not absolutely necessary. The nitrogen using for example manure may be supplied.</p>
+    <p>[0042] Since sulfur is a central building block in proteins as well as nitrogen and also for the nitrate reductase is responsible in the plant, can be recovered from the plant not more nitrogen to a sulfur deficiency. So in order to be able to ensure an efficient nitrogen fertilization, it is advantage-helped, this is just what is needed to connect with a sulfur fertilization.</p>
+    <p>[0043] The nitrogen fertilizer can only nitrogen or also comprise additives. The grain diameter of the average between about 2 mm and 4 mm nitrogen fertilizer can lie.</p>
+    <p>[0044] Preferably has the nitrogen fertilizer on water-soluble sulfur. By a combination of such a nitrogen fertilizer with a water-soluble sulfur and the sulfur-bearing fertilizer can both be provided elementary sulfur.</p>
+    <p>[0045] According to a further embodiment comprises the nitrogen fertilizer sulfuric acid or ammonia (ßa) it consists. In the sulfuric acid containing ammonia is ammonium nitrogen, nitrate nitrogen which e.g. a lower compared to subject to leaching. The invention can thus acidic ammonia fertilizer sulfur, elemental sulfur and screw comprise or consist of bait.</p>
+    <p>[0046] According to another embodiment between 19% and 23% ammonia comprises sulfur acid, particularly 21%, 22% and 26% ammonium nitrogen and between, 24% in particular, water-soluble sulfur. These are typical values for sulfuric acid ammonia.</p>
+    <p>[0047] According to a further embodiment comprises the nitrogen fertilizer ammonium sulfate urea or it consists. This leads to a good fertilizing effect and increases the yield. The invention thus ammonium sulfate urea fertilizer, elementary sulfur and screw comprise or consist of bait.</p>
+    <p>[0048] 31% And 35% of the ammonium sulfate urea preferably comprises between, in particular 33%, 10% and 14% total nitrogen and between, 12% in particular, water-soluble sulfur.</p>
+    <p>[0049] 20% And 24% between the ammonium sulfate urea can, in particular 22.6%, 8% and 12% carbamide nitrogen and between, 10.4% in particular, include ammonium nitrogen. A composition of 22.6% carbamide nitrogen and this gives the total nitrogen 33% 10.4% ammonium nitrogen. Such a water-soluble sulfur is also known as ammonium sulfate urea with 12% Piammon®.</p>
+    <p>[0050] Alternatively or in addition to the fertilizer can also comprise a magnesium fertilizer nitrogen fertilizer. The additives comprise a magnesium or magnesium fertilizer außchließlic can have.</p>
+    <p>[0051] In particular water-soluble sulfur has the magnesium fertilizer on. By a combination of such a magnesium fertilizer with a water-soluble sulfur and the sulfur-bearing fertilizer can thus both elemental sulfur are provided.</p>
+    <p>[0052] According to a further embodiment comprises between 15% and 30% of the magnesium fertilizer, especially 25%, 10% and 25% and between magnesium oxide, in particular 20%, water-soluble sulfur. Such a 25% 20% magnesium oxide and water-soluble water-soluble sulfur to fertilizer Magnesi with is also known as kieserite. Kieserite is bio suitable.</p>
+    <p>[0053] Between 10% and 30% in the proportion of fertilizer kieserite, in particular between 15% and 25%, preferably 20%, are.</p>
+    <p>[0054] Alternatively or in addition to a nitrogen fertilizer or magnesium fertilizer can also comprise a phosphate fertilizer the fertilizer. The phosphate fertilizer can comprise or have exclusively phosphate additives.</p>
+    <p>[0055] Takes a central role in the metabolism of plants a phosphate.</p>
+    <p>[0056] The phosphate fertilizer can comprise water-soluble sulfur. By a combination of such a phosphate fertilizer with a water-soluble sulfur and the sulfur-bearing fertilizer can thus both elemental sulfur are provided.</p>
+    <p>[0057] According to another embodiment comprises between 3% and 15% of the phosphate fertilizer, especially 9%, water-soluble sulfur.</p>
+    <p>[0058] Alternatively or in addition to a nitrogen fertilizer, phosphate fertilizer can also magnesium fertilizer or a potassium fertilizer comprise the fertilizer. The potash fertilizer additives can comprise or have only potassium.</p>
+    <p>[0059] In particular water-soluble sulfur has the potassium fertilizer on. By a combination of such a potassium type manure with a water-soluble sulfur and the sulfur-bearing fertilizer can thus both elemental sulfur are provided.</p>
+    <p>[0060] According to another embodiment of between 3% and 25% potassium fertilizer comprises, in particular between 10% and 20%, preferably 12.5% or 17%, water-soluble sulfur.</p>
+    <p>[0061] 40% Potassium oxide and sulfur trioxide or potassium fertilizer with a 12.5% 4% water-soluble sulfur is also known as grain-potassium®.</p>
+    <p>[0062] 50% Potassium sulfate and potassium fertilizer can also for example have a 17%.</p>
+    <p>[0063] Alternatively or in addition to a nitrogen fertilizer, magnesium fertilizer, phosphate fertilizer or potassium fertilizer can also comprise a phosphate potassium fertilizer the fertilizer.</p>
+    <p>[0064] In particular has the phosphate potassium fertilizer on water-soluble sulfur.</p>
+    <p>[0065] By a combination of such a phosphate potassium type manure with a water-soluble sulfur and the sulfur-bearing fertilizer can thus both elemental sulfur are provided.</p>
+    <p>[0066] According to another embodiment of the 3% and 7% water-soluble phosphate potassium fertilizer comprises between sulfur. In particular the phosphate potassium fertilizer between 5% and a proportion can 15% mineral acid soluble phosphate have. Between 20% and 40% the proportion of potassium oxide can lie.</p>
+    <p>[0067] According to a further embodiment the fertilizer comprises bentonite. The bentonite can for example in a elementary sulfur fertilizer, which comprises the elementary sulfur, be present. The proportion of bentonite in between 5% and 15% sulfur-bearing fertilizer can, in particular 10%, are.</p>
+    <p>[0068]E.g. bentonite clay humic complexes forms, which the soil structural stabilizing and increasing soil fertility.</p>
+    <p>[0069] 10% 90% Elemental sulfur and sulfur-bearing fertilizer with a granulated bentonite is e.g. known as Schwedokal® 90. Schwedokal® 90 is bio suitable.</p>
+    <p>[0070] Between 10% and 20% in the proportion of 90 Schwedokal® fertilizer, in particular are 14.5%.</p>
+    <p>[0071] According to a further embodiment comprises a urea fertilizer with nitrification inhibitor the fertilizer.</p>
+    <p>[0072] The grain diameter of the average between about 2 mm and 4 mm urea fertilizer can lie. According to the invention can thus in particular a nitrogen -, of magnesium -, phosphate -, potassium - and/or phosphate-potassium fertilizer with a elementary sulfur fertilizer and a screw and a urea fertilizer with nitrification inhibitor bait are combined. The plant fertilizing with important nutrients supplied by a singular may also be protected before and screw.</p>
+    <p>[0073] As well as water-soluble sulfur nitrate nitrogen can also not in the bottom crumb holding and washed out.</p>
+    <p>[0074] With the urea fertilizer with nitrification inhibitor can the benefits the ammonium form fully benefit however. The urea is in a very short time reaching a specific application and bottom temperature in ammonium nitrogen converted. Of the ammonium nitrogen is stabilized and its microbial conversion to nitrate significantly delayed. In this way a protected storage of ammonium in the ground before displacement is applied. Since plants as well as the ammonium nitrate can receive, if there is a demand from the plant growth of ammonium stressed controlled diet. Higher amounts can be applied without risk of such nitrogen when fertilizing luxury consumption. A fertilizing times is not necessary.</p>
+    <p>[0075] The fertilization is simplified and can also be made variable, especially nitrogen sure acts independently of the weather and stabilized. The fertilization is thus also at high rainfall protected before this leaching.</p>
+    <p>[0076]Acombination of a nitrogen fertilizer with a elementary sulfur fertilizer and a screw bait and a urea fertilizer with nitrification inhibitor thus makes possible a providing a continuous supply of stabilized nitrogen and sulfur during one complete growing season. A fertilizing times is omitted. The plant can start to e.g. for grain maturity in corn or canola from growing or to push in the cereals with nitrogen for sand, sulfur and screw are supplied bait.</p>
+    <p>[0077] According to a further embodiment comprises the urea fertilizer 46% carbamide nitrogen. Such a urea fertilizer with nitrification inhibitor is also known as Alzon® 46.</p>
+    <p>[0078] The proportion of urea fertilizer with nitrification inhibitor can in particular - between 40% and 60% in the fertilizer - if present at all, 56.7% preferably, be.</p>
+    <p>[0079] The nitrification inhibitor can dicyandiamide, triazole, in particular 1, 2, 3 triazole or 1, 2, 4 triazole, and/or comprise or consist of Nitrapyrin allylthiourea. The nitrification inhibitor can in particular as mixture of dicyandiamide and 1 Η - 1, 2, 4 triazole be formed.</p>
+    <p>[0080] This nitrification inhibitors have good inhibitory properties.</p>
+    <p>[0081] According to a further embodiment comprises a lime fertilizer nitrogen fertilizer. Nitrogen is also called calcium cyanamide (CaCN2) lime. This is a stabilized fertilizer. The lime nitrogen fertilizer nitrate nitrogen can, cyanamide nitrogen, nitrogen and/or dicyandiamide comprise or consist of lime.</p>
+    <p>[0082] In particular between 15% and 25% of nitrogen fertilizer contains lime, preferably 19.8%, nitrogen. The proportion of nitrogen between 1% and 3% nitrate can thereof, are preferably 1.8%. The proportion of nitrogen may be at least 10% cyanamide, preferably at least 15%, be, while the proportion of the nitrogen at about 0.5% dicyandiamide may lie. The lime content may be at least 40% (of CaO), preferably at least 50%, are.</p>
+    <p>[0083]Alime nitrogen fertilizer with a nitrogen content of at least 50% 19.8% and a lime content of is also known as PERLKA® market.</p>
+    <p>[0084] The lime can nitrogen fertilizer prill form. The grain diameter of between about 0.8 and 3.5 mm on average can lie. This can be used for various purposes and is also environmentally friendly.</p>
+    <p>[0085] Plants are supplied with nitrogen, is supplied during the ground lime. The microbiological activity in soil by the calcium cyanamide is increased.</p>
+    <p>[0086] As nitrogen may also be used for example in addition to stabilizing next to or Alzon® Perlka®.</p>
+    <p>[0087] According to a further embodiment comprises a micronutrient fertilizer fertilizer, in particular wherein the proportion of a micronutrient fertilizer between 1% and 8% in fertilizer - - if present at all, in particular between 4.5% and 5.5%, preferably 5.1%, is.</p>
+    <p>[0088] Micronutrients are required in small quantities only of plants. But these are for example the function and building ferments and important enzymes. Different micronutrients should therefore for plant available.</p>
+    <p>[0089] Dryness and the pH can affect the inclusion of plant available micronutrients from the soil. At high pH values for example are manganese, boron, zinc and copper poorly available, molybdenum at low pH values from the plant during insufficiently receivable.</p>
+    <p>[0090] So far were injected in liquid form onto the field especially micronutrients.</p>
+    <p>[0091] According to the invention can form a portion of the fertilizer micronutrients and together with other fertilizer components are discharged onto the field.</p>
+    <p>[0092] In this way an additional step can be saved, whereby costs are reduced.</p>
+    <p>[0093] The micronutrient fertilizer form and can thus be well with other components of the fertilizer mixing.</p>
+    <p>[0094] According to a further embodiment of a micronutrient fertilizer comprises boron, zinc, manganese, selenium, cobalt, molybdenum, copper and/or iron. The magnesium may also, of calcium, sodium and/or sulfur be present. The plant characterized with one or more different micro nutrient/s can sufficiently supplied.</p>
+    <p>[0095] At a lack of boron remains the plant for example in the development and grows slowly. For example boron in fertilizers for vegetables, e.g. potatoes, rapeseed, corn and/or soy are added.</p>
+    <p>[0096] Zinc and copper affect the vitality and stability of a plant positive. Zinc is essential for plant growth as well as for various metabolic processes. Zinc is also important for the fertility, defense forces and the digestion of animals fed with the plants.</p>
+    <p>[0097] Copper is important for the blood of animals fed with the plants - and bone formation.</p>
+    <p>[0098] Manganese in the photosynthesis and promotes root development supports the plant.</p>
+    <p>[0099]Alack of selenium can lead to diseases in humans and animals, for example to arrhythmias, heart failure, pulmonary edemas, fertility problems and/or thyroid inflammation. Human selenium is predominantly animal food received, as vegetable food have comparatively little selenium. By a fertilization with selenium can also be significantly increased its proportion in plant foods.</p>
+    <p>[00100] Selenium can also be used in fertilizers for meadows and pastures, fed to the animals, e.g. cattle and/or horse, supplying with selenium.</p>
+    <p>[00101] Selenium is also bio suitable.</p>
+    <p>[00102] Cobalt is an important part of vitamin b12 and of enzymes. A deficiency leads to reproductive disorders of animals fed with the plants.</p>
+    <p>[00103] Molybdenum for various metabolic functions and the exploitation of the plant nitrogen is important.</p>
+    <p>[00104] For example EXCELLO® 331 is known on the market. This micronutrient fertilizer comprises manganese 3.0%, 3.0% zinc, 1.0% boron, 11.8% magnesium oxide, calcium oxide 29.3%, 0.005% water-soluble molybdenum and 0.003% cobalt.</p>
+    <p>[00105] Market is also known e.g. Excello® pasture. This micronutrient fertilizer comprises 2.0% iron, 1.5% zinc, 1.0% manganese, 0.5% copper, 15.0% sodium chloride, 3.0% sulfur, 0.003% cobalt, 0.006% selenium, 7.9% 25.0% magnesium oxide and calcium oxide.</p>
+    <p>[00106] For example granular Fertilizers are also of ICL n and p (GNP) known fertilizer. This micronutrient fertilizer a composition of 11.5% nitrogen can for example, 2.5% 2.2% phosphorus and boron have. A higher proportion of e.g. 5.5% phosphorus is also possible.</p>
+    <p>[00107] Can additionally also sulfur, for example in a proportion of 15%, be provided. This results in a micronutrient fertilizer with 11.5% nitrogen, 5.5% phosphorus, sulfur and 2.2% 15% boron.</p>
+    <p>[00108] After a further embodiment the fertilizer sea lime, in particular - coral, algae and/or shell lime -, on. The chalk, lime is recovered from the sea, for example can be created from deposits of lime algae.</p>
+    <p>[00109] Lime stone - or quicklime is clear for example reactive as sea, which must be ground before applying, in any kind of microorganisms can be included. Lime is also effective in sea without crushing faster. The inclusion of other nutrients by sea lime is also improved. Lime is also bio suitable sea.</p>
+    <p>[00110] Sea lime is preferably in granular form and may well before mixing with other ingredients of the fertilizer.</p>
+    <p>[00111] The fertilizer can comprise a sea-lime fertilizer, lime has the sea. The sea-lime fertilizer can consist exclusively from sea lime or further additives, for example elemental sulfur, calcium carbonate and/or magnesium carbonate, comprise. The sea-lime fertilizer may for example 82% calcium carbonate (C03), 9% and 1.3% magnesium carbonate (MgC03) comprise elemental sulfur.</p>
+    <p>[00112] 92% 1.5% Calcium carbonate and magnesium carbonate with a composition also is conceivable.</p>
+    <p>[00113] For example between 0.1% and 2% of lime fertilizer can alternatively sea, preferably 0.6%, 40% and 60% magnesium and between, preferably 52%, have calcium oxide.</p>
+    <p>[00114] According to a further embodiment the fertilizer raw phosphate on. Raw phosphate is bio suitable. The raw phosphate is particularly mineral acid soluble phosphorus pentoxide and can weicherdig (p205) comprise.</p>
+    <p>[00115] The fertilizer can comprise a raw phosphate fertilizer, the raw phosphate has. The raw phosphate fertilizer can consist exclusively from raw phosphate or further additives, such as calcium, in particular C03, of magnesium, in particular of MgO, and/or selenium amino-purines, comprise.</p>
+    <p>[00116] The raw phosphate fertilizer may for example 26% phosphate, 1.2% of magnesium, 40% calcium oxide and 0.5% sodium have. This is also known as hyper-p26 grain market.</p>
+    <p>[00117] As a natural phosphate is also a raw phosphate fertilizer with 26% mineral acid soluble p26 phosphorus pentoxide (p205) known.</p>
+    <p>[00118] As a raw phosphate fertilizer is further lithographic Physalg® g18 with p205, C03, MgO and known amino-purines.</p>
+    <p>[00119] As a raw phosphate fertilizer with 26% p205 DOLO phosphene® is also 26, 40% 2% CaO and MgO is known.</p>
+    <p>[00120] DOLO contains 15% 15 phosphene® breaker rock phosphate (p205), 65% 15% magnesium carbonate and calcium carbonate (C03) (MgC03).</p>
+    <p>[00121] The invention is described below using an exemplary possible fertilizer.</p>
+    <p>[00122] The fertilizer may for example Alzon® 46, kieserite, Schwedokal® 90, 331 and contain Excello® METAREXINOV®. The respective portions can in principle be chosen arbitrarily. For example 331 Excello® instead of a GNP fertilizer can be used.</p>
+    <p>[00123] In particular can the fertilizer 56.7% Alzon® 46, 20% kieserite, 90 Schwedokal® 14.5%, 5.1% and 3.7% contain METAREXINOV® Excello® 331. A GNP fertilizer is used instead of Excello® 331, the proportion are chosen accordingly less, since a higher proportion of boron than GNP fertilizer Excello® 331.</p>
+    <p>[00124] Can all the components of the fertilizer prill form. Various fertilizer can thus well to a new fertilizer mixing. The proportions of the individual fertilizer on fertilizer mixing as exactly as possible, a metering mixer can be used.</p>
+    <p>[00125] The indicated information concerns the weight % -% each.</p>
+  </description>
+  <claims id="claims_eng" lang="eng" format="machine translation" date-changed="20200116">
+    <claim num="1">
+      <claim-text>1. Fertilizer, comprising elemental sulfur and<claim-text>Screw bait, which screw bait metaldehyde, Methiocarb and/or iron-III-phosphate comprises.</claim-text></claim-text>
+    </claim>
+    <claim num="2">
+      <claim-text>2. Fertilizer according to claim 1, <b>characterized in,</b><claim-text>in that the proportion of between 1 and 6 weight % by weight fertilizer bait<sup>0</sup> 4% by weight % by weight and in particular between 3 / ^, preferably 3.7 weight<sup>0</sup> ^ / is.</claim-text></claim-text>
+    </claim>
+    <claim num="3">
+      <claim-text>3. Fertilizer according to claims 1 or 2, <b>characterized in,</b><claim-text>that the screw comprises a sex attractant bait.</claim-text></claim-text>
+    </claim>
+    <claim num="4">
+      <claim-text>4. Fertilizer according to any of the preceding claims, <b>characterized by</b> Bentonite and/or water-soluble sulfur, particularly sulfur sulfate.</claim-text>
+    </claim>
+    <claim num="5">
+      <claim-text>5. Fertilizer according to any of the preceding claims, <b>characterized by</b><claim-text>a nitrogen fertilizer, a phosphate fertilizer, a potassium fertilizer, a phosphate potassium fertilizer and/or a magnesium fertilizer.</claim-text></claim-text>
+    </claim>
+    <claim num="6">
+      <claim-text>6. Fertilizer according to any of the preceding claims, <b>characterized by</b><claim-text>a urea fertilizer with nitrification inhibitor, in particular wherein the urea fertilizer 46% by weight and/or carbamide nitrogen wherein the proportion of urea fertilizer with comprises nitrification inhibitor between 40 and 60% by weight by weight in fertilizer<sup>0</sup> 56.7% by weight / ^ preferably, is, in particular wherein the nitrification inhibitor dicyandiamide, triazole, Nitrapyrin allylthiourea and/or comprises.</claim-text></claim-text>
+    </claim>
+    <claim num="7">
+      <claim-text>7. Fertilizer according to any of the preceding claims, <b>characterized by</b><claim-text>a lime nitrogen fertilizer, in particular between 15 and 25% by weight wherein the lime nitrogen fertilizer % by weight, preferably 19.8% by weight, contains nitrogen.</claim-text></claim-text>
+    </claim>
+    <claim num="8">
+      <claim-text>8. Fertilizer according to any of the preceding claims, <b>characterized by</b><claim-text>a micronutrient fertilizer, in particular wherein the proportion of 1% by weight in a micronutrient fertilizer and 8% by weight fertilizer between, 4.5 weight % 5.5% by weight and in particular between, 5.1% by weight preferably, is, preferably wherein the micronutrient fertilizer boron, zinc, manganese, selenium, cobalt, molybdenum, copper and/or comprises iron.</claim-text></claim-text>
+    </claim>
+    <claim num="9">
+      <claim-text>9. Fertilizer according to any of the preceding claims, <b>characterized in,</b> in that the fertilizer sea lime, in particular - coral, algae and/or shellfish - lime, has.</claim-text>
+    </claim>
+    <claim num="10">
+      <claim-text>10. Fertilizer according to any of the preceding claims, <b>characterized in,</b> in that the fertilizer raw phosphate has.</claim-text>
+    </claim>
+  </claims>
+  <claims id="claims_ger" lang="ger" format="ocr" date-changed="20200116">
+    <claim num="1" id="clm-00001-de" independent="true">
+      <claim-text>1. Düngemittel, umfassend Elementarschwefel und<claim-text>Schneckenköder, welcher Schneckenköder Metaldehyd, Eisen-Ill-Phosphat und/oder Methiocarb umfasst.</claim-text></claim-text>
+    </claim>
+    <claim num="2" id="clm-00002-de">
+      <claim-text>2. Düngemittel nach <claim-ref idref="clm-00001-de" generated="true">Anspruch 1</claim-ref> , <b>dadurch gekennzeichnet,</b><claim-text>dass der Anteil an Schneckenköder im Düngemittel zwischen 1 Gewichts% und 6 Gewichts<sup>0</sup>/^ insbesondere zwischen 3 Gewichts% und 4 Gewichts%, vorzugsweise 3,7 Gewichts<sup>0</sup>/^ beträgt.</claim-text></claim-text>
+    </claim>
+    <claim num="3" id="clm-00003-de">
+      <claim-text>3. Düngemittel nach <claim-ref idref="clm-00001-de clm-00002-de" generated="true">Anspruch 1 oder 2</claim-ref> , <b>dadurch gekennzeichnet,</b><claim-text>dass der Schneckenköder einen Sexuallockstoff umfasst.</claim-text></claim-text>
+    </claim>
+    <claim num="4" id="clm-00004-de">
+      <claim-text>4. Düngemittel nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de" generated="true">vorhergehenden Ansprüche</claim-ref> , <b>gekennzeichnet durch</b> Bentonit und/oder wasserlöslichen Schwefel, insbesondere Schwefelsulfat.</claim-text>
+    </claim>
+    <claim num="5" id="clm-00005-de">
+      <claim-text>5. Düngemittel nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de" generated="true">vorhergehenden Ansprüche</claim-ref> , <b>gekennzeichnet durch</b><claim-text>einen Stickstoff-Dünger, einen Phosphat-Dünger, einen Kali-Dünger, einen Phosphat-Kali-Dünger und/oder einen Magnesium-Dünger.</claim-text></claim-text>
+    </claim>
+    <claim num="6" id="clm-00006-de">
+      <claim-text>6. Düngemittel nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de" generated="true">vorhergehenden Ansprüche</claim-ref> , <b>gekennzeichnet durch</b><claim-text>einen Harnstoff-Dünger mit Nitrifikationshemmstoff, insbesondere wobei der Harnstoff-Dünger 46 Gewichts% Carbamidstickstoff umfasst und/oder wobei der Anteil an Harnstoff-Dünger mit Nitrifikationshemmstoff im Düngemittel zwischen 40 Gewichts% und 60 Gewichts<sup>0</sup>/^ vorzugsweise 56,7 Gewichts%, beträgt, insbesondere wobei der Nitrifikationshemmstoff Dicyandiamid, Triazol, Allylthioharnstoff und/oder Nitrapyrin umfasst.</claim-text></claim-text>
+    </claim>
+    <claim num="7" id="clm-00007-de">
+      <claim-text>7. Düngemittel nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de" generated="true">vorhergehenden Ansprüche</claim-ref> , <b>gekennzeichnet durch</b><claim-text>einen Kalkstickstoff-Dünger, insbesondere wobei der Kalkstickstoff-Dünger zwischen 15 Gewichts% und 25 Gewichts%, vorzugsweise 19,8 Gewichts%, Stickstoff enthält.</claim-text></claim-text>
+    </claim>
+    <claim num="8" id="clm-00008-de">
+      <claim-text>8. Düngemittel nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de clm-00007-de" generated="true">vorhergehenden Ansprüche</claim-ref> , <b>gekennzeichnet durch</b><claim-text>einen Mikronährstoff-Dünger, insbesondere wobei der Anteil des Mikronährstoff-Düngers im Düngemittel zwischen 1 Gewichts% und 8 Gewichts%, insbesondere zwischen 4,5 Gewichts% und 5,5 Gewichts%, vorzugsweise 5,1 Gewichts%, beträgt, wobei vorzugsweise der Mikronährstoff-Dünger Bor, Zink, Mangan, Selen, Kobalt, Molybdän, Kupfer und/oder Eisen umfasst.</claim-text></claim-text>
+    </claim>
+    <claim num="9" id="clm-00009-de">
+      <claim-text>9. Düngemittel nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de clm-00007-de clm-00008-de" generated="true">vorhergehenden Ansprüche</claim-ref> , <b>dadurch gekennzeichnet,</b> dass das Düngemittel Meerkalk, insbesondere Korallen-, Algen- und/oder Muschelkalk, aufweist.</claim-text>
+    </claim>
+    <claim num="10" id="clm-00010-de">
+      <claim-text>10. Düngemittel nach einem der <claim-ref idref="clm-00001-de clm-00002-de clm-00003-de clm-00004-de clm-00005-de clm-00006-de clm-00007-de clm-00008-de clm-00009-de" generated="true">vorhergehenden Ansprüche</claim-ref> , <b>dadurch gekennzeichnet,</b> dass das Düngemittel Rohphosphat aufweist.</claim-text>
+    </claim>
+  </claims>
+  <claim-hierarchy id="hierarchy_ger" lang="ger" format="ocr" date-changed="20200116">
+    <claim id="clm-00001-1" num="1" />
+    <claim id="clm-00002-1" num="2">
+      <claim id="clm-00001-1" num="1" />
+    </claim>
+    <claim id="clm-00003-1" num="3">
+      <claim id="clm-00001-1" num="1" />
+      <claim id="clm-00002-1" num="2" />
+    </claim>
+    <claim id="clm-00004-1" num="4">
+      <claim id="clm-00001-1" num="1" />
+      <claim id="clm-00002-1" num="2" />
+      <claim id="clm-00003-1" num="3" />
+    </claim>
+    <claim id="clm-00005-1" num="5">
+      <claim id="clm-00001-1" num="1" />
+      <claim id="clm-00002-1" num="2" />
+      <claim id="clm-00003-1" num="3" />
+      <claim id="clm-00004-1" num="4" />
+    </claim>
+    <claim id="clm-00006-1" num="6">
+      <claim id="clm-00001-1" num="1" />
+      <claim id="clm-00002-1" num="2" />
+      <claim id="clm-00003-1" num="3" />
+      <claim id="clm-00004-1" num="4" />
+      <claim id="clm-00005-1" num="5" />
+    </claim>
+    <claim id="clm-00007-1" num="7">
+      <claim id="clm-00001-1" num="1" />
+      <claim id="clm-00002-1" num="2" />
+      <claim id="clm-00003-1" num="3" />
+      <claim id="clm-00004-1" num="4" />
+      <claim id="clm-00005-1" num="5" />
+      <claim id="clm-00006-1" num="6" />
+    </claim>
+    <claim id="clm-00008-1" num="8">
+      <claim id="clm-00001-1" num="1" />
+      <claim id="clm-00002-1" num="2" />
+      <claim id="clm-00003-1" num="3" />
+      <claim id="clm-00004-1" num="4" />
+      <claim id="clm-00005-1" num="5" />
+      <claim id="clm-00006-1" num="6" />
+      <claim id="clm-00007-1" num="7" />
+    </claim>
+    <claim id="clm-00009-1" num="9">
+      <claim id="clm-00001-1" num="1" />
+      <claim id="clm-00002-1" num="2" />
+      <claim id="clm-00003-1" num="3" />
+      <claim id="clm-00004-1" num="4" />
+      <claim id="clm-00005-1" num="5" />
+      <claim id="clm-00006-1" num="6" />
+      <claim id="clm-00007-1" num="7" />
+      <claim id="clm-00008-1" num="8" />
+    </claim>
+    <claim id="clm-00010-1" num="10">
+      <claim id="clm-00001-1" num="1" />
+      <claim id="clm-00002-1" num="2" />
+      <claim id="clm-00003-1" num="3" />
+      <claim id="clm-00004-1" num="4" />
+      <claim id="clm-00005-1" num="5" />
+      <claim id="clm-00006-1" num="6" />
+      <claim id="clm-00007-1" num="7" />
+      <claim id="clm-00008-1" num="8" />
+      <claim id="clm-00009-1" num="9" />
+    </claim>
+  </claim-hierarchy>
+  <image file="AT15951U9.PDF" type="pdf" size="344485" pages="11" />
+</lexisnexis-patent-document>
